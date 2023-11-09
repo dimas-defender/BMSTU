@@ -1,0 +1,1 @@
+Average of negative numbers is -3.333333

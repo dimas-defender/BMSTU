@@ -1,0 +1,1 @@
+./task.exe neg_04_in.txt tr

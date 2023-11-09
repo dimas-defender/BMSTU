@@ -1,0 +1,6 @@
+Input    Output
+
+-2 6     64
+5 -3     Input error
+3 abc    Input error
+5 4      625

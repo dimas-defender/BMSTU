@@ -1,0 +1,24 @@
+std::vector<Pixel> ZBuffer::calculatePixels(Polygon &polygon, int minX, int maxX, int minY, int maxY) {
+    std::vector<Pixel> ans;                                                                                                              (1)
+    ActivePolygon activePolygon(polygon);                                                                                                (2)
+    for (int scanlineY = polygon.getY(); scanlineY <= polygon.getY() + polygon.getDeltaY() && scanlineY <= maxY; scanlineY++) {          (3)
+        activePolygon.check(scanlineY);                                                                                                  (4)
+
+        if (scanlineY >= minY) {                                                                                                         (5)
+            Segment segment = activePolygon.segment();                                                                                   (6)
+            ActiveSegment activeSegment(segment);                                                                                        (7)
+
+            for (int scanlineX = segment.getX(); scanlineX <= segment.getX() + segment.getDeltaX() && scanlineX <= maxX; scanlineX++) {  (8)
+                if (scanlineX >= minX) {                                                                                                 (9)
+                    float z = activeSegment.getZ();                                                                                      (10)
+                    QVector3D p = activeSegment.getP(), n = activeSegment.getN();                                                        (11)
+                    QColor color = calculateColor(p, n);                                                                                 (12)
+                    ans.push_back(Pixel(scanlineX, scanlineY, z, color));                                                                (13)
+                }
+                activeSegment.update();                                                                                                  (14)
+            }
+        }
+        activePolygon.update();                                                                                                          (15)
+    }
+    return ans;                                                                                                                          (16)
+}

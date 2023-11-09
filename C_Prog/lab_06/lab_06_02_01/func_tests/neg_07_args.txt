@@ -1,0 +1,1 @@
+./task.exe neg_07_in.txt a

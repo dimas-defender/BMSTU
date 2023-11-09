@@ -1,0 +1,5 @@
+ramp no
+blng no
+eqt yes
+brm no
+ft yes

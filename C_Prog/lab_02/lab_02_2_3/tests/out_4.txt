@@ -1,0 +1,2 @@
+Array without square numbers:
+-2 6 224 13

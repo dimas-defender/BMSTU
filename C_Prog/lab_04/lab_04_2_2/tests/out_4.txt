@@ -1,0 +1,5 @@
+a yes
+b yes
+c no
+de no
+f yes

@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>912</width>
+    <height>512</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ТехноМир - Администратор</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>912</width>
+      <height>202</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="select">
+     <attribute name="title">
+      <string>Просмотр</string>
+     </attribute>
+     <widget class="QLabel" name="password_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>65</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Пароль</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="login_show">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="shortname_show">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="fullname_show">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="email_show">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>105</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="login_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>25</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Логин</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="shortname_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Имя</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="fullname_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Фамилия</string>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="manager_show">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>110</y>
+        <width>150</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Менеджер</string>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="post_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>105</y>
+        <width>101</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Должность</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="email_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>105</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Электронная почта</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="show_btn">
+      <property name="geometry">
+       <rect>
+        <x>775</x>
+        <y>45</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Показать</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="password_show">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="admin_show">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>140</y>
+        <width>150</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Администратор</string>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="null_post">
+      <property name="geometry">
+       <rect>
+        <x>680</x>
+        <y>110</y>
+        <width>100</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Уволен</string>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>false</bool>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="add">
+     <attribute name="title">
+      <string>Добавление</string>
+     </attribute>
+     <widget class="QLineEdit" name="firstname">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="shortname_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Имя</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="fullname_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Фамилия</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="email_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>105</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Электронная почта</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="login_lbl">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>25</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Логин</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_lbl">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>65</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Пароль</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="post_lbl">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>105</y>
+        <width>101</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Должность</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lastname">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="email">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>105</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="manager">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>110</y>
+        <width>150</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Менеджер</string>
+      </property>
+      <property name="autoExclusive">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="login">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="password">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="admin">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>140</y>
+        <width>150</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Администратор</string>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="add_btn">
+      <property name="geometry">
+       <rect>
+        <x>775</x>
+        <y>45</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Добавить</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="show_del">
+     <attribute name="title">
+      <string>Удаление</string>
+     </attribute>
+     <widget class="QLabel" name="id_lbl">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>66</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Идентификатор</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="id">
+      <property name="geometry">
+       <rect>
+        <x>366</x>
+        <y>66</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="del_btn">
+      <property name="geometry">
+       <rect>
+        <x>576</x>
+        <y>66</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Удалить</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Редактирование</string>
+     </attribute>
+     <widget class="QLabel" name="password_lbl_2">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>65</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Пароль</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="login_ch">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="shortname_ch">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="email_ch">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>105</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="fullname_ch">
+      <property name="geometry">
+       <rect>
+        <x>200</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="login_lbl_2">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>25</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Логин</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="shortname_lbl_2">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>25</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Имя</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="fullname_lbl_2">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Фамилия</string>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="manager_ch">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>110</y>
+        <width>150</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Менеджер</string>
+      </property>
+      <property name="autoExclusive">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="post_lbl_2">
+      <property name="geometry">
+       <rect>
+        <x>450</x>
+        <y>105</y>
+        <width>101</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Должность</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="email_lbl_2">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>105</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Электронная почта</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="ch_btn">
+      <property name="geometry">
+       <rect>
+        <x>775</x>
+        <y>45</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Изменить</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="password_ch">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>65</y>
+        <width>180</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="admin_ch">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>140</y>
+        <width>150</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Администратор</string>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+      <property name="autoExclusive">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Выход</string>
+     </attribute>
+     <widget class="QCommandLinkButton" name="goout">
+      <property name="geometry">
+       <rect>
+        <x>340</x>
+        <y>60</y>
+        <width>401</width>
+        <height>50</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Выйти из аккаунта</string>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>50</width>
+        <height>50</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QTableWidget" name="table">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>202</y>
+      <width>912</width>
+      <height>310</height>
+     </rect>
+    </property>
+    <property name="selectionMode">
+     <enum>QAbstractItemView::SingleSelection</enum>
+    </property>
+    <property name="selectionBehavior">
+     <enum>QAbstractItemView::SelectItems</enum>
+    </property>
+    <property name="cornerButtonEnabled">
+     <bool>true</bool>
+    </property>
+    <property name="columnCount">
+     <number>7</number>
+    </property>
+    <column>
+     <property name="text">
+      <string>Идентификатор</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Логин</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Пароль</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Имя</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Фамилия</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Должность</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Электронная почта</string>
+     </property>
+    </column>
+   </widget>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>shortname_show</tabstop>
+  <tabstop>fullname_show</tabstop>
+  <tabstop>email_show</tabstop>
+  <tabstop>login_show</tabstop>
+  <tabstop>password_show</tabstop>
+  <tabstop>null_post</tabstop>
+  <tabstop>manager_show</tabstop>
+  <tabstop>admin_show</tabstop>
+  <tabstop>show_btn</tabstop>
+  <tabstop>firstname</tabstop>
+  <tabstop>lastname</tabstop>
+  <tabstop>email</tabstop>
+  <tabstop>login</tabstop>
+  <tabstop>password</tabstop>
+  <tabstop>manager</tabstop>
+  <tabstop>admin</tabstop>
+  <tabstop>add_btn</tabstop>
+  <tabstop>id</tabstop>
+  <tabstop>del_btn</tabstop>
+  <tabstop>shortname_ch</tabstop>
+  <tabstop>fullname_ch</tabstop>
+  <tabstop>email_ch</tabstop>
+  <tabstop>login_ch</tabstop>
+  <tabstop>password_ch</tabstop>
+  <tabstop>manager_ch</tabstop>
+  <tabstop>admin_ch</tabstop>
+  <tabstop>ch_btn</tabstop>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>table</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

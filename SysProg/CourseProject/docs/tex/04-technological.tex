@@ -1,0 +1,140 @@
+\section{Технологический раздел}
+
+\subsection{Выбор языка и среды программирования}
+
+Исходный код операционной системы Linux написан на языке C, поэтому для реализации загружаемого модуля выбран язык С.
+
+Visual Studio Code~\cite{vscode} предлагает такой инструмент для разработчиков, как IntelliSense.
+Это множество функций редактирования кода, таких как, например, code completion, parameter info, quick info, member lists.
+Поэтому в качестве среды программирования была выбрана VS Code.
+
+
+\subsection{Функция включения перехвата}
+
+Для описания перехватываемых функций используется структура struct ftrace\_hook, которая приведена в листинге \ref{struct}.
+
+\lstinputlisting[
+language=C,
+firstline=21,
+lastline=27,
+caption={Структура для описания перехватываемой функции},
+label={struct},
+style=customc
+]
+{listings/my_hook.c}
+
+Поля приведенной структуры имеют следующее значение: name -- имя перехватываемой функции, function -- адрес хука, вызываемого вместо перехваченной функции, original -- указатель на место, куда будет записан адрес перехватываемой функции, address -- адрес перехватываемой функции.
+
+Для обеспечения перехвата \cite{code} необходимо заполнить только поля name,\newline function, original. Для удобства описания можно использовать макрос, а все перехватываемые функции собрать в массив, что показано в листинге \ref{array}.
+
+\pagebreak
+
+\lstinputlisting[
+language=C,
+firstline=247,
+lastline=256,
+caption={Массив перехватываемых функций},
+label={array},
+style=customc
+]
+{listings/my_hook.c}
+
+Найти адрес перехватываемой функции можно с использованием krpobes, его получение показано в листинге \ref{addr}.
+
+\lstinputlisting[
+language=C,
+caption={Получение адреса перехватываемой функции},
+label={addr},
+style=customc
+]
+{listings/addr.c}
+
+Для включения перехвата необходимо проинициализировать структуру ftrace\_ops. В ней обязательным полем является лишь func, указывающая на коллбек, но также необходимо установить некоторые важные флаги. Они предписывают ftrace сохранить и восстановить регистры процессора, содержимое которых может измениться в коллбеке.
+
+Функция включения перехвата и коллбек представлены в листингах \ref{install} и \ref{callback} соответственно.
+
+\lstinputlisting[
+language=C,
+firstline=65,
+lastline=93,
+caption={Функция включения перехвата},
+label={install},
+style=customc
+]
+{listings/my_hook.c}
+
+\lstinputlisting[
+language=C,
+firstline=55,
+lastline=63,
+caption={Коллбек, выполняющий перехват},
+label={callback},
+style=customc
+]
+{listings/my_hook.c}
+
+Функция отключения перехвата представлена в листинге \ref{remove}.
+
+\lstinputlisting[
+language=C,
+firstline=95,
+lastline=104,
+caption={Функция отключения перехвата},
+label={remove},
+style=customc
+]
+{listings/my_hook.c}
+
+\subsection{Хуки для перехватываемых функций}
+
+Порядок и типы аргументов и возвращаемого значения хуков должны соответствовать прототипу системного вызова. В хуках происходит вызов обработчика и его логирование.
+
+Реализации хуков для системных вызовов sys\_clone() и sys\_execve() приведены в листингах \ref{clone} и \ref{exec} соответственно.
+
+\lstinputlisting[
+language=C,
+firstline=155,
+lastline=171,
+caption={Реализация hook\_sys\_clone()},
+label={clone},
+style=customc
+]
+{listings/my_hook.c}
+
+\lstinputlisting[
+language=C,
+firstline=207,
+lastline=222,
+caption={Реализация hook\_sys\_execve()},
+label={exec},
+style=customc
+]
+{listings/my_hook.c}
+
+\pagebreak
+
+\subsection{Сборка загружаемого модуля ядра}
+
+Функции инициализации и выхода для загружаемого модуля приведены в листинге \ref{lkm}.
+
+\lstinputlisting[
+language=C,
+firstline=258,
+lastline=275,
+caption={Функции инициализации и выхода},
+label={lkm},
+style=customc
+]
+{listings/my_hook.c}
+
+Сборка загружаемого модуля ядра осуществляется с помощью make-файла, текст которого приведен в листинге \ref{make}.
+
+\lstinputlisting[
+language=C,
+caption={Make-файл для сборки модуля},
+label={make},
+style=customc
+]
+{listings/Makefile}
+
+\pagebreak

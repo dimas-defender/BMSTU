@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>576</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ТехноМир - Менеджер</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1024</width>
+      <height>576</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Каталог</string>
+     </attribute>
+     <widget class="QLabel" name="fullname_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>50</y>
+        <width>90</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Категория</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_country">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>130</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_name">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>10</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_9">
+      <property name="geometry">
+       <rect>
+        <x>610</x>
+        <y>130</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Номер телефона</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_10">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>90</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Кол-во на складе</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="catalog_show_btn">
+      <property name="geometry">
+       <rect>
+        <x>910</x>
+        <y>50</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Показать</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_type">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>50</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_11">
+      <property name="geometry">
+       <rect>
+        <x>610</x>
+        <y>90</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Адрес</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_12">
+      <property name="geometry">
+       <rect>
+        <x>610</x>
+        <y>50</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Организация</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_13">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>10</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Цена</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="email_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>90</y>
+        <width>111</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Производитель</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="shortname_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>90</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Название</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="login_show_lbl">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>130</y>
+        <width>90</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Страна</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_supplier">
+      <property name="geometry">
+       <rect>
+        <x>740</x>
+        <y>50</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_14">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>50</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Срок гарантии</string>
+      </property>
+     </widget>
+     <widget class="QTableWidget" name="catalog_table">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>170</y>
+        <width>1024</width>
+        <height>370</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>8</pointsize>
+       </font>
+      </property>
+      <column>
+       <property name="text">
+        <string>Идентификатор</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Название</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Категория</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Производитель</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Страна</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Цена</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Срок гарантии</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Кол-во на складе</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Поставщик</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QSpinBox" name="catalog_quantity">
+      <property name="geometry">
+       <rect>
+        <x>430</x>
+        <y>90</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="minimum">
+       <number>0</number>
+      </property>
+      <property name="maximum">
+       <number>5000</number>
+      </property>
+      <property name="singleStep">
+       <number>10</number>
+      </property>
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="catalog_add_btn">
+      <property name="geometry">
+       <rect>
+        <x>910</x>
+        <y>90</y>
+        <width>100</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Добавить</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_manufacturer">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>90</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QSpinBox" name="catalog_price">
+      <property name="geometry">
+       <rect>
+        <x>430</x>
+        <y>10</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="minimum">
+       <number>0</number>
+      </property>
+      <property name="maximum">
+       <number>100000</number>
+      </property>
+      <property name="singleStep">
+       <number>10</number>
+      </property>
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+     <widget class="QSpinBox" name="catalog_warranty">
+      <property name="geometry">
+       <rect>
+        <x>430</x>
+        <y>50</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="minimum">
+       <number>0</number>
+      </property>
+      <property name="maximum">
+       <number>120</number>
+      </property>
+      <property name="singleStep">
+       <number>1</number>
+      </property>
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+     <widget class="QLabel" name="password_show_lbl_37">
+      <property name="geometry">
+       <rect>
+        <x>680</x>
+        <y>10</y>
+        <width>120</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Поставщик</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_address">
+      <property name="geometry">
+       <rect>
+        <x>740</x>
+        <y>90</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="catalog_phone">
+      <property name="geometry">
+       <rect>
+        <x>740</x>
+        <y>130</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_5">
+     <attribute name="title">
+      <string>История продаж</string>
+     </attribute>
+     <widget class="QPushButton" name="show_btn">
+      <property name="geometry">
+       <rect>
+        <x>760</x>
+        <y>20</y>
+        <width>151</width>
+        <height>51</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Показать</string>
+      </property>
+     </widget>
+     <widget class="QTableWidget" name="sales_table">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>99</y>
+        <width>1024</width>
+        <height>441</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <column>
+       <property name="text">
+        <string>Идентификатор</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Телефон покупателя</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Стоимость</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Адрес доставки</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Дата заказа</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Наименование товара</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Количество единиц</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QLabel" name="name_to_add_cp_lbl_3">
+      <property name="geometry">
+       <rect>
+        <x>30</x>
+        <y>17</y>
+        <width>211</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Минимальная сумма заказа</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="datefromEdit">
+      <property name="geometry">
+       <rect>
+        <x>410</x>
+        <y>51</y>
+        <width>121</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="dateTime">
+       <datetime>
+        <hour>0</hour>
+        <minute>0</minute>
+        <second>0</second>
+        <year>2020</year>
+        <month>1</month>
+        <day>1</day>
+       </datetime>
+      </property>
+      <property name="displayFormat">
+       <string>yyyy-MM-dd</string>
+      </property>
+     </widget>
+     <widget class="QSpinBox" name="minsum_spinBox">
+      <property name="geometry">
+       <rect>
+        <x>240</x>
+        <y>16</y>
+        <width>101</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="maximum">
+       <number>100000</number>
+      </property>
+      <property name="singleStep">
+       <number>100</number>
+      </property>
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+     <widget class="QLabel" name="name_to_add_cp_lbl_5">
+      <property name="geometry">
+       <rect>
+        <x>500</x>
+        <y>10</y>
+        <width>121</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Период продаж</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="name_to_add_cp_lbl_6">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>55</y>
+        <width>21</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>От</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="name_to_add_cp_lbl_7">
+      <property name="geometry">
+       <rect>
+        <x>550</x>
+        <y>55</y>
+        <width>21</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>До</string>
+      </property>
+     </widget>
+     <widget class="QDateEdit" name="datetoEdit">
+      <property name="geometry">
+       <rect>
+        <x>580</x>
+        <y>51</y>
+        <width>121</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="dateTime">
+       <datetime>
+        <hour>0</hour>
+        <minute>0</minute>
+        <second>0</second>
+        <year>2023</year>
+        <month>1</month>
+        <day>1</day>
+       </datetime>
+      </property>
+      <property name="displayFormat">
+       <string>yyyy-MM-dd</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_6">
+     <attribute name="title">
+      <string>Список покупателей</string>
+     </attribute>
+     <widget class="QPushButton" name="clients_show_btn">
+      <property name="geometry">
+       <rect>
+        <x>630</x>
+        <y>10</y>
+        <width>191</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Показать</string>
+      </property>
+     </widget>
+     <widget class="QTableWidget" name="clients_table">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>70</y>
+        <width>1024</width>
+        <height>470</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <column>
+       <property name="text">
+        <string>Идентификатор</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Имя</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Номер телефона</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Общая сумма покупок</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QSpinBox" name="mintotal_spinBox">
+      <property name="geometry">
+       <rect>
+        <x>370</x>
+        <y>16</y>
+        <width>121</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="maximum">
+       <number>100000</number>
+      </property>
+      <property name="singleStep">
+       <number>100</number>
+      </property>
+      <property name="value">
+       <number>0</number>
+      </property>
+     </widget>
+     <widget class="QLabel" name="name_to_add_cp_lbl_11">
+      <property name="geometry">
+       <rect>
+        <x>140</x>
+        <y>17</y>
+        <width>211</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Минимальная сумма покупок</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Список поставщиков</string>
+     </attribute>
+     <widget class="QTableWidget" name="supplier_table">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>70</y>
+        <width>1024</width>
+        <height>470</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <column>
+       <property name="text">
+        <string>Идентификатор</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Название организации</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Адрес</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Номер телефона</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QLineEdit" name="supplier_name">
+      <property name="geometry">
+       <rect>
+        <x>240</x>
+        <y>20</y>
+        <width>150</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="clearButtonEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="suppliers_show_btn">
+      <property name="geometry">
+       <rect>
+        <x>640</x>
+        <y>10</y>
+        <width>191</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Показать</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="shortname_show_lbl_5">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>20</y>
+        <width>171</width>
+        <height>30</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Название организации</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_7">
+     <attribute name="title">
+      <string>Выход</string>
+     </attribute>
+     <widget class="QCommandLinkButton" name="goout">
+      <property name="geometry">
+       <rect>
+        <x>400</x>
+        <y>200</y>
+        <width>401</width>
+        <height>50</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Выйти из аккаунта</string>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>50</width>
+        <height>50</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>catalog_name</tabstop>
+  <tabstop>catalog_type</tabstop>
+  <tabstop>catalog_country</tabstop>
+  <tabstop>catalog_quantity</tabstop>
+  <tabstop>catalog_supplier</tabstop>
+  <tabstop>catalog_show_btn</tabstop>
+  <tabstop>catalog_add_btn</tabstop>
+  <tabstop>show_btn</tabstop>
+  <tabstop>clients_show_btn</tabstop>
+  <tabstop>goout</tabstop>
+  <tabstop>catalog_table</tabstop>
+  <tabstop>sales_table</tabstop>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>clients_table</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

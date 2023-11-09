@@ -1,0 +1,1000 @@
+{"id":1,"name":"PT Cruiser","engine_capacity":4.5204602400710385,"horsepower":368,"brand_id":143}
+{"id":2,"name":"S4","engine_capacity":4.814960607585126,"horsepower":448,"brand_id":91}
+{"id":4,"name":"xD","engine_capacity":3.330074815665716,"horsepower":379,"brand_id":150}
+{"id":5,"name":"xB","engine_capacity":2.8034911184772806,"horsepower":386,"brand_id":730}
+{"id":6,"name":"Caravan Passenger","engine_capacity":0.9637419584621802,"horsepower":399,"brand_id":731}
+{"id":7,"name":"940","engine_capacity":1.6248309478560614,"horsepower":406,"brand_id":711}
+{"id":8,"name":"Celica","engine_capacity":4.518652956354845,"horsepower":105,"brand_id":899}
+{"id":9,"name":"Tacoma Access Cab","engine_capacity":4.6965481833714,"horsepower":369,"brand_id":189}
+{"id":10,"name":"Z4","engine_capacity":3.221611418313202,"horsepower":432,"brand_id":8}
+{"id":11,"name":"S10 Extended Cab","engine_capacity":4.956201051028748,"horsepower":415,"brand_id":295}
+{"id":12,"name":"CLK-Class","engine_capacity":3.0137005335427656,"horsepower":373,"brand_id":122}
+{"id":13,"name":"Acadia","engine_capacity":4.82120189457202,"horsepower":230,"brand_id":518}
+{"id":14,"name":"Element","engine_capacity":3.968734154304287,"horsepower":266,"brand_id":483}
+{"id":15,"name":"SLK-Class","engine_capacity":1.3313005731287486,"horsepower":457,"brand_id":3}
+{"id":16,"name":"XJ","engine_capacity":2.4113596693763384,"horsepower":197,"brand_id":973}
+{"id":17,"name":"tC","engine_capacity":2.019595745269303,"horsepower":191,"brand_id":85}
+{"id":18,"name":"Silverado 2500 HD Crew Cab","engine_capacity":2.9997093105662893,"horsepower":206,"brand_id":730}
+{"id":19,"name":"Rapide S","engine_capacity":3.1977363692581804,"horsepower":91,"brand_id":28}
+{"id":20,"name":"Esteem","engine_capacity":3.6512047804231065,"horsepower":103,"brand_id":102}
+{"id":21,"name":"C-HR","engine_capacity":4.211323689566873,"horsepower":248,"brand_id":284}
+{"id":22,"name":"Eclipse","engine_capacity":2.5607988291388684,"horsepower":261,"brand_id":386}
+{"id":23,"name":"Trooper","engine_capacity":4.638556101640552,"horsepower":385,"brand_id":355}
+{"id":24,"name":"Elantra","engine_capacity":4.420708129286001,"horsepower":485,"brand_id":135}
+{"id":25,"name":"300M","engine_capacity":1.9775031261207487,"horsepower":190,"brand_id":177}
+{"id":26,"name":"TT","engine_capacity":4.322643919335322,"horsepower":242,"brand_id":533}
+{"id":27,"name":"Outlander PHEV","engine_capacity":2.9659300269753723,"horsepower":89,"brand_id":572}
+{"id":28,"name":"Ram 1500 Quad Cab","engine_capacity":3.14475677230108,"horsepower":461,"brand_id":38}
+{"id":29,"name":"Grand Vitara","engine_capacity":1.3160850723466653,"horsepower":276,"brand_id":160}
+{"id":30,"name":"LS","engine_capacity":2.9675609914542065,"horsepower":86,"brand_id":630}
+{"id":31,"name":"ES","engine_capacity":3.99445201716122,"horsepower":109,"brand_id":290}
+{"id":32,"name":"Transit Connect Passenger","engine_capacity":4.986018146497113,"horsepower":242,"brand_id":21}
+{"id":33,"name":"Nubira","engine_capacity":4.6776345577896805,"horsepower":128,"brand_id":520}
+{"id":34,"name":"Ranger Super Cab","engine_capacity":3.1045315903071957,"horsepower":334,"brand_id":243}
+{"id":35,"name":"Odyssey","engine_capacity":1.5913506155072603,"horsepower":312,"brand_id":121}
+{"id":36,"name":"R8","engine_capacity":1.5787217435206689,"horsepower":233,"brand_id":754}
+{"id":37,"name":"Frontier King Cab","engine_capacity":4.872849998255485,"horsepower":467,"brand_id":796}
+{"id":38,"name":"Golf SportWagen","engine_capacity":4.263583518620611,"horsepower":340,"brand_id":569}
+{"id":39,"name":"D150 Club Cab","engine_capacity":0.8051103356387164,"horsepower":483,"brand_id":286}
+{"id":40,"name":"Land Cruiser","engine_capacity":1.5423860668617997,"horsepower":117,"brand_id":784}
+{"id":41,"name":"NV3500 HD Passenger","engine_capacity":2.3933733439586273,"horsepower":97,"brand_id":520}
+{"id":42,"name":"Tundra Regular Cab","engine_capacity":2.2596601187453027,"horsepower":301,"brand_id":720}
+{"id":44,"name":"Impala","engine_capacity":2.285272122625361,"horsepower":293,"brand_id":671}
+{"id":45,"name":"Mercedes-AMG GLC Coupe","engine_capacity":2.7782858873566383,"horsepower":449,"brand_id":992}
+{"id":46,"name":"500","engine_capacity":4.753658573847134,"horsepower":292,"brand_id":426}
+{"id":47,"name":"Savana 2500 Cargo","engine_capacity":0.9355552273787212,"horsepower":388,"brand_id":414}
+{"id":48,"name":"ES","engine_capacity":1.5993385870484533,"horsepower":158,"brand_id":619}
+{"id":49,"name":"Navigator","engine_capacity":1.1474805616197057,"horsepower":328,"brand_id":967}
+{"id":50,"name":"H1","engine_capacity":4.00725009929676,"horsepower":500,"brand_id":686}
+{"id":51,"name":"M5","engine_capacity":2.1801342052175166,"horsepower":296,"brand_id":896}
+{"id":52,"name":"Legacy","engine_capacity":2.892464266742719,"horsepower":145,"brand_id":646}
+{"id":53,"name":"TL","engine_capacity":2.02063094314967,"horsepower":430,"brand_id":225}
+{"id":54,"name":"Savana 2500 Passenger","engine_capacity":1.6172739005032954,"horsepower":231,"brand_id":48}
+{"id":55,"name":"X5","engine_capacity":2.4228157799377867,"horsepower":306,"brand_id":584}
+{"id":56,"name":"S4","engine_capacity":3.601929050223964,"horsepower":139,"brand_id":177}
+{"id":57,"name":"Pilot","engine_capacity":1.5099468335138115,"horsepower":241,"brand_id":301}
+{"id":58,"name":"CR-V","engine_capacity":4.75238702818752,"horsepower":132,"brand_id":642}
+{"id":59,"name":"MX-5 Miata","engine_capacity":1.9403714195317392,"horsepower":403,"brand_id":285}
+{"id":60,"name":"G90","engine_capacity":3.8277801947199155,"horsepower":144,"brand_id":983}
+{"id":61,"name":"E-Class","engine_capacity":0.951865496879754,"horsepower":147,"brand_id":168}
+{"id":62,"name":"F150 Regular Cab","engine_capacity":0.9585007850614664,"horsepower":238,"brand_id":598}
+{"id":63,"name":"Sierra 1500 Crew Cab","engine_capacity":2.5599494892200667,"horsepower":169,"brand_id":525}
+{"id":64,"name":"Catera","engine_capacity":4.442786486819354,"horsepower":342,"brand_id":833}
+{"id":65,"name":"Matrix","engine_capacity":1.7084600982122313,"horsepower":108,"brand_id":669}
+{"id":66,"name":"300","engine_capacity":3.2695437927037974,"horsepower":416,"brand_id":807}
+{"id":67,"name":"Sportage","engine_capacity":1.726547957260754,"horsepower":202,"brand_id":902}
+{"id":68,"name":"CLS-Class","engine_capacity":1.7805267372480649,"horsepower":351,"brand_id":172}
+{"id":69,"name":"Rio","engine_capacity":1.4288931730158034,"horsepower":295,"brand_id":431}
+{"id":70,"name":"Grand Marquis","engine_capacity":2.1836582613227877,"horsepower":343,"brand_id":627}
+{"id":71,"name":"QX","engine_capacity":0.8299818402955315,"horsepower":224,"brand_id":425}
+{"id":72,"name":"Suburban 2500","engine_capacity":3.2482254694018975,"horsepower":125,"brand_id":886}
+{"id":73,"name":"Boxster","engine_capacity":1.1883302064849126,"horsepower":279,"brand_id":25}
+{"id":74,"name":"Rio","engine_capacity":2.1657744048820917,"horsepower":197,"brand_id":567}
+{"id":75,"name":"Metro","engine_capacity":1.6064578063297619,"horsepower":457,"brand_id":364}
+{"id":76,"name":"Liberty","engine_capacity":4.629568139811708,"horsepower":399,"brand_id":912}
+{"id":77,"name":"QX60","engine_capacity":1.900217680947153,"horsepower":487,"brand_id":259}
+{"id":78,"name":"Bolt EV","engine_capacity":3.485328947073131,"horsepower":242,"brand_id":792}
+{"id":79,"name":"Uplander Passenger","engine_capacity":4.994362972439171,"horsepower":249,"brand_id":397}
+{"id":80,"name":"Avalon","engine_capacity":1.7010417604388726,"horsepower":350,"brand_id":890}
+{"id":81,"name":"NX","engine_capacity":0.8208549486110074,"horsepower":169,"brand_id":679}
+{"id":82,"name":"fortwo","engine_capacity":3.077776552957581,"horsepower":145,"brand_id":738}
+{"id":83,"name":"Express 3500 Passenger","engine_capacity":2.3777041701294572,"horsepower":270,"brand_id":102}
+{"id":84,"name":"Silverado 2500 HD Crew Cab","engine_capacity":4.612544114621473,"horsepower":410,"brand_id":242}
+{"id":85,"name":"8 Series","engine_capacity":2.79743040935001,"horsepower":394,"brand_id":578}
+{"id":86,"name":"Expedition","engine_capacity":1.8842747115771303,"horsepower":179,"brand_id":712}
+{"id":87,"name":"Rodeo Sport","engine_capacity":4.642147786528391,"horsepower":388,"brand_id":169}
+{"id":88,"name":"Century","engine_capacity":3.586687989877287,"horsepower":423,"brand_id":472}
+{"id":89,"name":"LX","engine_capacity":2.1262295219288263,"horsepower":191,"brand_id":11}
+{"id":90,"name":"F350 Regular Cab","engine_capacity":1.590774288869008,"horsepower":82,"brand_id":904}
+{"id":91,"name":"Gallardo","engine_capacity":1.6481383127607028,"horsepower":151,"brand_id":283}
+{"id":92,"name":"STS","engine_capacity":1.1837549762490733,"horsepower":199,"brand_id":465}
+{"id":93,"name":"Astro Cargo","engine_capacity":0.9100974520499728,"horsepower":166,"brand_id":876}
+{"id":94,"name":"G-Class","engine_capacity":2.4570277084537766,"horsepower":99,"brand_id":670}
+{"id":95,"name":"Forester","engine_capacity":3.532320353056212,"horsepower":182,"brand_id":221}
+{"id":96,"name":"Pilot","engine_capacity":3.8518159948452553,"horsepower":293,"brand_id":461}
+{"id":97,"name":"Club Wagon","engine_capacity":4.405357732966593,"horsepower":312,"brand_id":449}
+{"id":98,"name":"Explorer Sport Trac","engine_capacity":1.4188571419518445,"horsepower":176,"brand_id":540}
+{"id":99,"name":"CL-Class","engine_capacity":4.9487704637506145,"horsepower":283,"brand_id":213}
+{"id":100,"name":"B-Series Regular Cab","engine_capacity":4.0753241011173325,"horsepower":216,"brand_id":242}
+{"id":101,"name":"2500 Mega Cab","engine_capacity":3.050006136767511,"horsepower":103,"brand_id":39}
+{"id":103,"name":"M","engine_capacity":2.340277688390179,"horsepower":248,"brand_id":297}
+{"id":104,"name":"Q7","engine_capacity":2.2761015348687437,"horsepower":305,"brand_id":112}
+{"id":106,"name":"Ridgeline","engine_capacity":4.931519024710442,"horsepower":126,"brand_id":154}
+{"id":108,"name":"Yukon","engine_capacity":3.1071327529131194,"horsepower":260,"brand_id":843}
+{"id":109,"name":"NV1500 Cargo","engine_capacity":4.944871422004827,"horsepower":465,"brand_id":252}
+{"id":110,"name":"CR-V","engine_capacity":2.93856105186107,"horsepower":367,"brand_id":837}
+{"id":111,"name":"Town & Country","engine_capacity":2.9534772145223283,"horsepower":495,"brand_id":525}
+{"id":113,"name":"Civic","engine_capacity":4.141261478853362,"horsepower":478,"brand_id":78}
+{"id":115,"name":"QX50","engine_capacity":3.2519303568115756,"horsepower":211,"brand_id":516}
+{"id":116,"name":"Giulia","engine_capacity":4.775771675840587,"horsepower":372,"brand_id":684}
+{"id":117,"name":"2500 Regular Cab","engine_capacity":2.503986964487612,"horsepower":348,"brand_id":894}
+{"id":118,"name":"Spectra","engine_capacity":2.9114079536326516,"horsepower":378,"brand_id":283}
+{"id":120,"name":"164","engine_capacity":2.5086130096811434,"horsepower":487,"brand_id":634}
+{"id":121,"name":"ProMaster 1500 Cargo","engine_capacity":4.557322136249992,"horsepower":201,"brand_id":4}
+{"id":122,"name":"Malibu","engine_capacity":3.1321784883152617,"horsepower":136,"brand_id":224}
+{"id":102,"name":"300M","engine_capacity":1.5239908620055713,"horsepower":180,"brand_id":855}
+{"id":43,"name":"4Runner","engine_capacity":2.1681916327495988927,"horsepower":265,"brand_id":133}
+{"id":124,"name":"Suburban 1500","engine_capacity":3.320142897545927,"horsepower":410,"brand_id":715}
+{"id":125,"name":"MAZDA6","engine_capacity":3.8606652239428367,"horsepower":123,"brand_id":134}
+{"id":126,"name":"Reno","engine_capacity":4.914268426123678,"horsepower":390,"brand_id":10}
+{"id":131,"name":"Z3","engine_capacity":2.743450158747235,"horsepower":438,"brand_id":640}
+{"id":134,"name":"RDX","engine_capacity":3.60297666165609,"horsepower":295,"brand_id":142}
+{"id":135,"name":"V40","engine_capacity":4.6650379621848534,"horsepower":276,"brand_id":725}
+{"id":136,"name":"Silverado 2500 HD Regular Cab","engine_capacity":4.163969106415953,"horsepower":387,"brand_id":881}
+{"id":137,"name":"A3 Sportback e-tron","engine_capacity":3.4565301207476367,"horsepower":222,"brand_id":710}
+{"id":138,"name":"88","engine_capacity":3.2948879781653666,"horsepower":134,"brand_id":951}
+{"id":139,"name":"xB","engine_capacity":4.877864142931934,"horsepower":461,"brand_id":738}
+{"id":140,"name":"7 Series","engine_capacity":2.2196782339404217,"horsepower":258,"brand_id":506}
+{"id":141,"name":"Silverado 2500 HD Extended Cab","engine_capacity":4.457902136285936,"horsepower":480,"brand_id":745}
+{"id":142,"name":"911","engine_capacity":3.0692347211045634,"horsepower":201,"brand_id":161}
+{"id":144,"name":"M-Class","engine_capacity":4.7862750626926065,"horsepower":415,"brand_id":418}
+{"id":146,"name":"LR3","engine_capacity":2.6479189240868797,"horsepower":365,"brand_id":516}
+{"id":147,"name":"S40","engine_capacity":2.873219354469396,"horsepower":327,"brand_id":480}
+{"id":148,"name":"Dart","engine_capacity":4.127622494842544,"horsepower":409,"brand_id":492}
+{"id":150,"name":"Taurus","engine_capacity":2.515429062906487,"horsepower":438,"brand_id":869}
+{"id":151,"name":"Azera","engine_capacity":4.839363728732515,"horsepower":367,"brand_id":314}
+{"id":152,"name":"Colorado Crew Cab","engine_capacity":4.554879625117059,"horsepower":277,"brand_id":995}
+{"id":154,"name":"Land Cruiser","engine_capacity":2.6717614118484807,"horsepower":464,"brand_id":15}
+{"id":156,"name":"Continental","engine_capacity":4.476656799326182,"horsepower":115,"brand_id":297}
+{"id":158,"name":"Protege","engine_capacity":4.435382650176268,"horsepower":230,"brand_id":914}
+{"id":159,"name":"Sierra 2500 HD Crew Cab","engine_capacity":2.7656064230678057,"horsepower":389,"brand_id":491}
+{"id":161,"name":"Grand Cherokee","engine_capacity":3.5809159667181154,"horsepower":99,"brand_id":893}
+{"id":164,"name":"E150 Super Duty Passenger","engine_capacity":3.4958965264821327,"horsepower":158,"brand_id":485}
+{"id":165,"name":"Avalon","engine_capacity":4.520038116094263,"horsepower":118,"brand_id":623}
+{"id":166,"name":"CLS-Class","engine_capacity":3.992906435065164,"horsepower":354,"brand_id":131}
+{"id":167,"name":"B-Series Extended Cab","engine_capacity":4.148116771834111,"horsepower":205,"brand_id":123}
+{"id":168,"name":"300","engine_capacity":3.4390895509378314,"horsepower":227,"brand_id":833}
+{"id":169,"name":"Q50","engine_capacity":4.346718601145285,"horsepower":179,"brand_id":448}
+{"id":172,"name":"Silhouette","engine_capacity":4.972472351986035,"horsepower":270,"brand_id":98}
+{"id":174,"name":"300","engine_capacity":2.6248975388477045,"horsepower":390,"brand_id":769}
+{"id":176,"name":"Range Rover","engine_capacity":4.70606172056676,"horsepower":400,"brand_id":734}
+{"id":177,"name":"Magnum","engine_capacity":4.455824346976589,"horsepower":498,"brand_id":819}
+{"id":178,"name":"Econoline E350 Super Duty Passenger","engine_capacity":4.334337974885879,"horsepower":395,"brand_id":429}
+{"id":179,"name":"F350 Super Duty Super Cab","engine_capacity":4.873795961846105,"horsepower":138,"brand_id":286}
+{"id":180,"name":"Navigator L","engine_capacity":3.8481612651951815,"horsepower":187,"brand_id":506}
+{"id":181,"name":"1500 Classic Quad Cab","engine_capacity":4.896898304017865,"horsepower":214,"brand_id":502}
+{"id":182,"name":"IS F","engine_capacity":3.216868498209081,"horsepower":240,"brand_id":997}
+{"id":184,"name":"Boxster","engine_capacity":4.2188717911449904,"horsepower":363,"brand_id":637}
+{"id":187,"name":"MX-5 Miata","engine_capacity":4.160111940406531,"horsepower":462,"brand_id":108}
+{"id":189,"name":"Hardtop 4 Door","engine_capacity":3.5134263859055626,"horsepower":322,"brand_id":119}
+{"id":190,"name":"LR2","engine_capacity":4.170634912220778,"horsepower":291,"brand_id":38}
+{"id":191,"name":"Escalade EXT","engine_capacity":3.065091863143313,"horsepower":137,"brand_id":507}
+{"id":193,"name":"M","engine_capacity":3.04654380282573,"horsepower":444,"brand_id":375}
+{"id":194,"name":"Tundra Access Cab","engine_capacity":3.991133906177125,"horsepower":266,"brand_id":878}
+{"id":196,"name":"Sequoia","engine_capacity":2.3572664383507425,"horsepower":431,"brand_id":118}
+{"id":197,"name":"Legacy","engine_capacity":4.138732025975312,"horsepower":408,"brand_id":214}
+{"id":198,"name":"MKS","engine_capacity":3.7877666434343302,"horsepower":415,"brand_id":729}
+{"id":199,"name":"DTS","engine_capacity":2.873963047870995,"horsepower":227,"brand_id":351}
+{"id":200,"name":"Aventador","engine_capacity":4.6444778841009935,"horsepower":365,"brand_id":213}
+{"id":201,"name":"Passport","engine_capacity":2.5931798870870537,"horsepower":112,"brand_id":778}
+{"id":203,"name":"F350 Super Duty Crew Cab","engine_capacity":3.0906429536069497,"horsepower":237,"brand_id":825}
+{"id":204,"name":"Element","engine_capacity":4.594985321081888,"horsepower":191,"brand_id":152}
+{"id":205,"name":"Ram 3500 Regular Cab","engine_capacity":3.9726809482927816,"horsepower":86,"brand_id":849}
+{"id":208,"name":"Silverado 3500 HD Crew Cab","engine_capacity":3.6715608353881324,"horsepower":196,"brand_id":464}
+{"id":210,"name":"i8","engine_capacity":3.2325550290178313,"horsepower":330,"brand_id":804}
+{"id":211,"name":"300 CE","engine_capacity":2.139623963153029,"horsepower":479,"brand_id":150}
+{"id":212,"name":"M3","engine_capacity":2.1070408688699143,"horsepower":350,"brand_id":21}
+{"id":215,"name":"XF","engine_capacity":4.372295518946366,"horsepower":444,"brand_id":219}
+{"id":216,"name":"B-Series Extended Cab","engine_capacity":2.8035312944204938,"horsepower":194,"brand_id":592}
+{"id":217,"name":"Aerostar Passenger","engine_capacity":4.204189747926769,"horsepower":390,"brand_id":44}
+{"id":218,"name":"Ram 2500 Regular Cab","engine_capacity":4.172114538031928,"horsepower":339,"brand_id":879}
+{"id":219,"name":"New Beetle","engine_capacity":3.8173527622238463,"horsepower":198,"brand_id":239}
+{"id":220,"name":"E-Class","engine_capacity":2.4230566549014574,"horsepower":469,"brand_id":215}
+{"id":221,"name":"Raider Extended Cab","engine_capacity":3.185525604501623,"horsepower":301,"brand_id":433}
+{"id":222,"name":"Forte","engine_capacity":3.82983617959232,"horsepower":291,"brand_id":575}
+{"id":223,"name":"Passat","engine_capacity":3.772881726625765,"horsepower":391,"brand_id":606}
+{"id":224,"name":"Jetta SportWagen","engine_capacity":2.4741308857369697,"horsepower":116,"brand_id":410}
+{"id":225,"name":"Outlook","engine_capacity":3.952813141443041,"horsepower":129,"brand_id":810}
+{"id":226,"name":"Tacoma Xtracab","engine_capacity":2.907258634327456,"horsepower":418,"brand_id":332}
+{"id":227,"name":"Highlander","engine_capacity":3.9744871635904904,"horsepower":411,"brand_id":470}
+{"id":229,"name":"Leganza","engine_capacity":2.9258510158886883,"horsepower":426,"brand_id":473}
+{"id":230,"name":"F350 Super Duty Crew Cab","engine_capacity":4.359914453207053,"horsepower":383,"brand_id":546}
+{"id":231,"name":"Silverado 3500 HD Regular Cab","engine_capacity":2.2406126386607044,"horsepower":123,"brand_id":685}
+{"id":232,"name":"6 Series","engine_capacity":2.9080358152200434,"horsepower":438,"brand_id":523}
+{"id":235,"name":"8 Series","engine_capacity":3.7275549346302768,"horsepower":156,"brand_id":502}
+{"id":237,"name":"Xtra Cab","engine_capacity":4.219829767771017,"horsepower":254,"brand_id":989}
+{"id":239,"name":"S10 Regular Cab","engine_capacity":3.124803377151575,"horsepower":302,"brand_id":24}
+{"id":240,"name":"GS","engine_capacity":4.421741701493778,"horsepower":425,"brand_id":860}
+{"id":241,"name":"MDX","engine_capacity":4.984784319930424,"horsepower":402,"brand_id":973}
+{"id":242,"name":"G-Class","engine_capacity":2.8671724668308887,"horsepower":109,"brand_id":689}
+{"id":127,"name":"Vigor","engine_capacity":1.3543111993048087,"horsepower":180,"brand_id":301}
+{"id":202,"name":"Ram Wagon 1500","engine_capacity":1.3433768664577375,"horsepower":180,"brand_id":632}
+{"id":206,"name":"Prius c","engine_capacity":1.9099347457341873,"horsepower":180,"brand_id":711}
+{"id":207,"name":"2500 Mega Cab","engine_capacity":1.593294764190702,"horsepower":180,"brand_id":774}
+{"id":209,"name":"SQ5","engine_capacity":1.0322344898167515,"horsepower":180,"brand_id":678}
+{"id":213,"name":"Seville","engine_capacity":1.2608980901229017,"horsepower":123,"brand_id":667}
+{"id":214,"name":"Trans Sport","engine_capacity":1.2728471244242217,"horsepower":180,"brand_id":385}
+{"id":228,"name":"Civic","engine_capacity":1.0040518280064221,"horsepower":180,"brand_id":214}
+{"id":234,"name":"Safari Cargo","engine_capacity":1.7979904717091513,"horsepower":180,"brand_id":230}
+{"id":236,"name":"Regal","engine_capacity":1.453289893795525,"horsepower":180,"brand_id":179}
+{"id":238,"name":"MAZDA6","engine_capacity":1.846581315925086,"horsepower":180,"brand_id":356}
+{"id":243,"name":"Safari Passenger","engine_capacity":1.7814047335972707,"horsepower":180,"brand_id":385}
+{"id":244,"name":"Silverado 1500 Crew Cab","engine_capacity":2.025794487061029,"horsepower":181,"brand_id":173}
+{"id":245,"name":"Sentra","engine_capacity":3.7105985656341565,"horsepower":252,"brand_id":944}
+{"id":246,"name":"Pilot","engine_capacity":3.0501442158746084,"horsepower":386,"brand_id":447}
+{"id":247,"name":"SC","engine_capacity":3.1893358589800043,"horsepower":312,"brand_id":249}
+{"id":248,"name":"Rondo","engine_capacity":4.209520985877957,"horsepower":82,"brand_id":672}
+{"id":249,"name":"Dakota Club Cab","engine_capacity":3.47205679348572,"horsepower":465,"brand_id":168}
+{"id":250,"name":"Amigo","engine_capacity":4.357636857878508,"horsepower":201,"brand_id":511}
+{"id":251,"name":"C-Class","engine_capacity":3.287123673265075,"horsepower":329,"brand_id":447}
+{"id":252,"name":"Versa","engine_capacity":2.8415625759272674,"horsepower":106,"brand_id":190}
+{"id":255,"name":"Suburban 1500","engine_capacity":3.0864960440207048,"horsepower":140,"brand_id":877}
+{"id":256,"name":"LX","engine_capacity":3.3825215433184646,"horsepower":342,"brand_id":877}
+{"id":257,"name":"Prius","engine_capacity":2.5144078046358596,"horsepower":160,"brand_id":679}
+{"id":262,"name":"Sonata","engine_capacity":4.8892418313866,"horsepower":281,"brand_id":427}
+{"id":263,"name":"Sierra 1500 Extended Cab","engine_capacity":4.5627811263699005,"horsepower":490,"brand_id":143}
+{"id":264,"name":"Escape","engine_capacity":4.161168631803847,"horsepower":354,"brand_id":991}
+{"id":265,"name":"XLR","engine_capacity":3.85985443638575,"horsepower":160,"brand_id":691}
+{"id":266,"name":"S80","engine_capacity":3.8327567999826018,"horsepower":184,"brand_id":704}
+{"id":268,"name":"E350 Super Duty Passenger","engine_capacity":2.1514582634500456,"horsepower":402,"brand_id":297}
+{"id":269,"name":"Colorado Crew Cab","engine_capacity":4.557010152481837,"horsepower":469,"brand_id":383}
+{"id":270,"name":"QX80","engine_capacity":4.449845299406785,"horsepower":99,"brand_id":596}
+{"id":271,"name":"F-PACE","engine_capacity":4.169164122342543,"horsepower":151,"brand_id":96}
+{"id":272,"name":"TrailBlazer","engine_capacity":2.146778339936163,"horsepower":485,"brand_id":726}
+{"id":273,"name":"allroad","engine_capacity":4.531514974247946,"horsepower":322,"brand_id":124}
+{"id":274,"name":"F150 Super Cab","engine_capacity":4.970304050595818,"horsepower":386,"brand_id":552}
+{"id":275,"name":"Stelvio","engine_capacity":4.73330033679864,"horsepower":364,"brand_id":964}
+{"id":278,"name":"Optima Hybrid","engine_capacity":3.63356278747849,"horsepower":439,"brand_id":66}
+{"id":281,"name":"SLR McLaren","engine_capacity":2.798939056677556,"horsepower":401,"brand_id":176}
+{"id":282,"name":"Frontier Crew Cab","engine_capacity":4.356557615150434,"horsepower":314,"brand_id":233}
+{"id":283,"name":"Azera","engine_capacity":2.2006447117059267,"horsepower":203,"brand_id":15}
+{"id":285,"name":"2500 Crew Cab","engine_capacity":4.244817922374565,"horsepower":491,"brand_id":325}
+{"id":286,"name":"Countryman","engine_capacity":2.1706288689628126,"horsepower":178,"brand_id":202}
+{"id":289,"name":"Prius v","engine_capacity":3.973539928826307,"horsepower":266,"brand_id":370}
+{"id":291,"name":"M5","engine_capacity":4.712330622347001,"horsepower":357,"brand_id":769}
+{"id":292,"name":"1500 Crew Cab","engine_capacity":4.852484541190907,"horsepower":142,"brand_id":422}
+{"id":293,"name":"Kicks","engine_capacity":4.19666725565202,"horsepower":470,"brand_id":808}
+{"id":294,"name":"Town Car","engine_capacity":4.542533591221386,"horsepower":129,"brand_id":948}
+{"id":295,"name":"XK","engine_capacity":4.91644400033638,"horsepower":425,"brand_id":863}
+{"id":296,"name":"Silverado 3500 Extended Cab","engine_capacity":3.036668923480325,"horsepower":90,"brand_id":373}
+{"id":298,"name":"5 Series","engine_capacity":4.299542809347223,"horsepower":338,"brand_id":129}
+{"id":301,"name":"7 Series","engine_capacity":2.609428614852918,"horsepower":359,"brand_id":27}
+{"id":302,"name":"Yukon","engine_capacity":2.351692939219169,"horsepower":404,"brand_id":198}
+{"id":303,"name":"xB","engine_capacity":3.9009628976501096,"horsepower":397,"brand_id":703}
+{"id":304,"name":"SLK-Class","engine_capacity":4.254216564911765,"horsepower":403,"brand_id":388}
+{"id":305,"name":"Optima","engine_capacity":2.1875011745313016,"horsepower":206,"brand_id":206}
+{"id":306,"name":"2500 Regular Cab","engine_capacity":3.5989324834353518,"horsepower":490,"brand_id":888}
+{"id":307,"name":"Sierra 2500 HD Regular Cab","engine_capacity":1.4754678725716657,"horsepower":496,"brand_id":951}
+{"id":308,"name":"Tercel","engine_capacity":1.89611694294158,"horsepower":360,"brand_id":76}
+{"id":309,"name":"Explorer Sport","engine_capacity":1.936502167112481,"horsepower":262,"brand_id":689}
+{"id":310,"name":"Cutlass Cruiser","engine_capacity":3.1783208799916913,"horsepower":121,"brand_id":865}
+{"id":311,"name":"F350 Super Duty Crew Cab","engine_capacity":1.5343367000638501,"horsepower":222,"brand_id":76}
+{"id":312,"name":"S70","engine_capacity":3.282578291384249,"horsepower":396,"brand_id":781}
+{"id":313,"name":"Escape","engine_capacity":3.3879540634443446,"horsepower":349,"brand_id":661}
+{"id":314,"name":"Metro","engine_capacity":1.6206161173697473,"horsepower":290,"brand_id":120}
+{"id":315,"name":"Amigo","engine_capacity":3.445746847993828,"horsepower":330,"brand_id":316}
+{"id":316,"name":"Silverado 3500 HD Double Cab","engine_capacity":0.967976150225424,"horsepower":218,"brand_id":141}
+{"id":317,"name":"MKS","engine_capacity":2.6418563089597917,"horsepower":180,"brand_id":234}
+{"id":318,"name":"Sprinter 3500 Cargo","engine_capacity":2.6654684610684862,"horsepower":496,"brand_id":78}
+{"id":319,"name":"Caliber","engine_capacity":1.8088747124418247,"horsepower":471,"brand_id":1}
+{"id":320,"name":"2500 Extended Cab","engine_capacity":4.73006905627977,"horsepower":196,"brand_id":913}
+{"id":321,"name":"Forenza","engine_capacity":4.491725091083075,"horsepower":386,"brand_id":809}
+{"id":322,"name":"S8","engine_capacity":3.942300299648762,"horsepower":280,"brand_id":483}
+{"id":323,"name":"Tracker","engine_capacity":2.5305186976708005,"horsepower":183,"brand_id":513}
+{"id":324,"name":"Avalon Hybrid","engine_capacity":2.7687565348626535,"horsepower":390,"brand_id":49}
+{"id":325,"name":"Range Rover","engine_capacity":1.8700715045289007,"horsepower":488,"brand_id":500}
+{"id":326,"name":"Galant","engine_capacity":1.0583657853682096,"horsepower":117,"brand_id":334}
+{"id":327,"name":"Golf","engine_capacity":2.6787946149912742,"horsepower":206,"brand_id":908}
+{"id":328,"name":"Prowler","engine_capacity":2.4258767047289274,"horsepower":427,"brand_id":555}
+{"id":329,"name":"Countryman","engine_capacity":1.1356524939991661,"horsepower":194,"brand_id":456}
+{"id":330,"name":"F250 Super Cab","engine_capacity":2.69553698489759,"horsepower":414,"brand_id":383}
+{"id":331,"name":"Santa Fe","engine_capacity":4.400625445381626,"horsepower":463,"brand_id":655}
+{"id":332,"name":"LX","engine_capacity":3.1027034323231817,"horsepower":218,"brand_id":869}
+{"id":333,"name":"3500 Extended Cab","engine_capacity":0.9860245624229194,"horsepower":453,"brand_id":216}
+{"id":334,"name":"C70","engine_capacity":1.3081192846036367,"horsepower":307,"brand_id":184}
+{"id":335,"name":"Five Hundred","engine_capacity":3.3556640878483135,"horsepower":486,"brand_id":687}
+{"id":336,"name":"Sierra 3500 Crew Cab","engine_capacity":4.781991237010309,"horsepower":95,"brand_id":515}
+{"id":337,"name":"Rapide S","engine_capacity":4.6788749381310355,"horsepower":488,"brand_id":892}
+{"id":338,"name":"Q5","engine_capacity":1.4618030267019124,"horsepower":251,"brand_id":147}
+{"id":339,"name":"CLK-Class","engine_capacity":3.822659103554493,"horsepower":188,"brand_id":970}
+{"id":340,"name":"Sidekick","engine_capacity":2.2245780783973963,"horsepower":200,"brand_id":314}
+{"id":341,"name":"S80","engine_capacity":4.9984793359521715,"horsepower":212,"brand_id":187}
+{"id":342,"name":"Silverado 3500 HD Crew Cab","engine_capacity":2.5594175867729154,"horsepower":130,"brand_id":80}
+{"id":343,"name":"Ion","engine_capacity":3.5347338577910303,"horsepower":298,"brand_id":224}
+{"id":344,"name":"599 GTB Fiorano","engine_capacity":3.88980817823217,"horsepower":172,"brand_id":314}
+{"id":345,"name":"3500 Regular Cab","engine_capacity":1.3678908727772172,"horsepower":132,"brand_id":304}
+{"id":346,"name":"Yukon","engine_capacity":2.393909610193936,"horsepower":297,"brand_id":167}
+{"id":347,"name":"C-MAX Energi","engine_capacity":3.3269692415215557,"horsepower":317,"brand_id":630}
+{"id":348,"name":"TITAN XD King Cab","engine_capacity":2.501169050544045,"horsepower":351,"brand_id":689}
+{"id":349,"name":"Avalanche","engine_capacity":1.781986475849149,"horsepower":179,"brand_id":221}
+{"id":350,"name":"Dakota Quad Cab","engine_capacity":4.447057546167886,"horsepower":200,"brand_id":894}
+{"id":351,"name":"Grand Cherokee","engine_capacity":1.5154300154171088,"horsepower":166,"brand_id":586}
+{"id":352,"name":"Cavalier","engine_capacity":2.5618062262306327,"horsepower":183,"brand_id":15}
+{"id":353,"name":"Silverado 1500 Extended Cab","engine_capacity":4.839404650446813,"horsepower":462,"brand_id":730}
+{"id":354,"name":"CX-5","engine_capacity":2.773013413550493,"horsepower":257,"brand_id":426}
+{"id":355,"name":"Silverado 1500 Regular Cab","engine_capacity":3.495632739300942,"horsepower":170,"brand_id":878}
+{"id":356,"name":"Maxima","engine_capacity":1.5425053747839703,"horsepower":270,"brand_id":398}
+{"id":357,"name":"fortwo electric drive","engine_capacity":2.733693470558127,"horsepower":125,"brand_id":697}
+{"id":358,"name":"Yukon XL 1500","engine_capacity":2.6666627430177487,"horsepower":190,"brand_id":626}
+{"id":359,"name":"Expedition EL","engine_capacity":4.5108188109929275,"horsepower":196,"brand_id":194}
+{"id":360,"name":"Econoline E350 Super Duty Cargo","engine_capacity":2.902068869842153,"horsepower":120,"brand_id":351}
+{"id":361,"name":"Crown Victoria","engine_capacity":3.536122494564493,"horsepower":358,"brand_id":280}
+{"id":362,"name":"Tundra Double Cab","engine_capacity":1.4547194063061635,"horsepower":471,"brand_id":68}
+{"id":363,"name":"Bravada","engine_capacity":2.6660328653894783,"horsepower":239,"brand_id":777}
+{"id":364,"name":"Beretta","engine_capacity":2.2083789359237427,"horsepower":349,"brand_id":231}
+{"id":365,"name":"Breeze","engine_capacity":3.503703453385132,"horsepower":288,"brand_id":130}
+{"id":366,"name":"GLS","engine_capacity":2.8225266792718875,"horsepower":465,"brand_id":385}
+{"id":367,"name":"Explorer","engine_capacity":1.9332329931951318,"horsepower":255,"brand_id":31}
+{"id":368,"name":"Sienna","engine_capacity":1.0741989665896665,"horsepower":156,"brand_id":579}
+{"id":369,"name":"Express 1500 Passenger","engine_capacity":4.172648650691397,"horsepower":100,"brand_id":241}
+{"id":370,"name":"Colorado Extended Cab","engine_capacity":4.446803240079187,"horsepower":218,"brand_id":521}
+{"id":371,"name":"Montero Sport","engine_capacity":4.986590059053398,"horsepower":140,"brand_id":806}
+{"id":372,"name":"Sequoia","engine_capacity":2.654193922772563,"horsepower":292,"brand_id":379}
+{"id":373,"name":"A6","engine_capacity":4.223469771908991,"horsepower":282,"brand_id":688}
+{"id":374,"name":"S8","engine_capacity":1.8335030653055169,"horsepower":389,"brand_id":981}
+{"id":375,"name":"500e","engine_capacity":3.689298841799353,"horsepower":308,"brand_id":314}
+{"id":376,"name":"Boxster","engine_capacity":1.7302598577188484,"horsepower":157,"brand_id":470}
+{"id":377,"name":"Ram 1500 Quad Cab","engine_capacity":3.557016769703991,"horsepower":131,"brand_id":406}
+{"id":378,"name":"Q3","engine_capacity":4.202237343321999,"horsepower":91,"brand_id":729}
+{"id":379,"name":"Genesis","engine_capacity":3.713051068286523,"horsepower":172,"brand_id":715}
+{"id":380,"name":"Alero","engine_capacity":1.0289956229930557,"horsepower":438,"brand_id":601}
+{"id":381,"name":"Bolt EV","engine_capacity":2.180229677244584,"horsepower":453,"brand_id":583}
+{"id":382,"name":"Xterra","engine_capacity":3.563455225938074,"horsepower":388,"brand_id":573}
+{"id":383,"name":"F450 Super Duty Crew Cab","engine_capacity":3.2010229154760417,"horsepower":223,"brand_id":387}
+{"id":384,"name":"Legacy","engine_capacity":4.506568600590836,"horsepower":83,"brand_id":199}
+{"id":385,"name":"Pathfinder","engine_capacity":3.34763649419617,"horsepower":305,"brand_id":366}
+{"id":386,"name":"S4","engine_capacity":2.473632731534572,"horsepower":117,"brand_id":1}
+{"id":387,"name":"ATS","engine_capacity":2.6552731177554856,"horsepower":92,"brand_id":513}
+{"id":388,"name":"300M","engine_capacity":0.9144823746257209,"horsepower":104,"brand_id":978}
+{"id":389,"name":"Sprinter 2500 Cargo","engine_capacity":4.544676175047932,"horsepower":402,"brand_id":817}
+{"id":390,"name":"Avalanche","engine_capacity":2.567538552775443,"horsepower":258,"brand_id":402}
+{"id":391,"name":"MKZ","engine_capacity":1.962119941540432,"horsepower":389,"brand_id":521}
+{"id":392,"name":"Colorado Regular Cab","engine_capacity":2.7167071594037795,"horsepower":82,"brand_id":508}
+{"id":393,"name":"Murano","engine_capacity":1.1779579021489934,"horsepower":328,"brand_id":601}
+{"id":394,"name":"ES","engine_capacity":1.9815475081503884,"horsepower":265,"brand_id":773}
+{"id":395,"name":"Corolla","engine_capacity":4.681789263031495,"horsepower":362,"brand_id":611}
+{"id":396,"name":"Z4","engine_capacity":3.5087635144307514,"horsepower":357,"brand_id":475}
+{"id":397,"name":"Quest","engine_capacity":3.9600648324840275,"horsepower":365,"brand_id":425}
+{"id":398,"name":"Sierra 3500 HD Regular Cab","engine_capacity":1.8911617988342027,"horsepower":287,"brand_id":527}
+{"id":399,"name":"900","engine_capacity":4.294350922198735,"horsepower":255,"brand_id":46}
+{"id":400,"name":"Sierra 2500 Regular Cab","engine_capacity":1.1991340368866554,"horsepower":105,"brand_id":996}
+{"id":401,"name":"3500 Extended Cab","engine_capacity":3.774834354804006,"horsepower":215,"brand_id":604}
+{"id":402,"name":"Mountaineer","engine_capacity":1.8474841814298988,"horsepower":364,"brand_id":662}
+{"id":403,"name":"F350 Regular Cab","engine_capacity":0.8370631755051957,"horsepower":387,"brand_id":719}
+{"id":404,"name":"Thunderbird","engine_capacity":2.2113897970084238,"horsepower":389,"brand_id":658}
+{"id":405,"name":"MAZDA6","engine_capacity":1.4810384964915992,"horsepower":201,"brand_id":766}
+{"id":406,"name":"Express 2500 Cargo","engine_capacity":4.038665546953188,"horsepower":141,"brand_id":947}
+{"id":407,"name":"Corvette","engine_capacity":1.3239454097325423,"horsepower":131,"brand_id":976}
+{"id":408,"name":"4 Series","engine_capacity":4.493846367257991,"horsepower":375,"brand_id":944}
+{"id":409,"name":"MAZDA6","engine_capacity":4.790326312988583,"horsepower":179,"brand_id":947}
+{"id":410,"name":"Sentra","engine_capacity":3.427026059104863,"horsepower":316,"brand_id":208}
+{"id":411,"name":"NV3500 HD Passenger","engine_capacity":1.4877336843728453,"horsepower":446,"brand_id":345}
+{"id":412,"name":"MAZDA3","engine_capacity":3.278426608092488,"horsepower":241,"brand_id":120}
+{"id":413,"name":"EX","engine_capacity":2.4272487564636354,"horsepower":375,"brand_id":265}
+{"id":414,"name":"Ranger Super Cab","engine_capacity":1.5197885304513061,"horsepower":220,"brand_id":991}
+{"id":415,"name":"Tucson","engine_capacity":4.218222830201975,"horsepower":192,"brand_id":116}
+{"id":416,"name":"Voyager","engine_capacity":2.661726768281212,"horsepower":336,"brand_id":196}
+{"id":417,"name":"Prius","engine_capacity":2.1669684776853844,"horsepower":127,"brand_id":508}
+{"id":419,"name":"Venture Cargo","engine_capacity":2.882980450800585,"horsepower":187,"brand_id":211}
+{"id":420,"name":"Spirit","engine_capacity":3.429326680712939,"horsepower":264,"brand_id":122}
+{"id":421,"name":"Q5","engine_capacity":4.262709884394625,"horsepower":177,"brand_id":401}
+{"id":422,"name":"Compass","engine_capacity":2.995487162007125,"horsepower":176,"brand_id":82}
+{"id":423,"name":"RX-8","engine_capacity":2.117896189793149,"horsepower":357,"brand_id":887}
+{"id":424,"name":"Lumina","engine_capacity":0.9735410714440006,"horsepower":458,"brand_id":435}
+{"id":425,"name":"3500 Club Coupe","engine_capacity":2.505064916251043,"horsepower":441,"brand_id":416}
+{"id":426,"name":"F250 Super Duty Crew Cab","engine_capacity":3.7683788095730852,"horsepower":117,"brand_id":849}
+{"id":427,"name":"2500 Regular Cab","engine_capacity":2.4346186521576216,"horsepower":266,"brand_id":177}
+{"id":428,"name":"Savana 1500 Passenger","engine_capacity":1.9459607641848207,"horsepower":226,"brand_id":50}
+{"id":429,"name":"Passat","engine_capacity":2.048615290993939,"horsepower":454,"brand_id":353}
+{"id":430,"name":"Q70","engine_capacity":3.560607913632184,"horsepower":336,"brand_id":395}
+{"id":431,"name":"Terrain","engine_capacity":1.0829090804044563,"horsepower":453,"brand_id":71}
+{"id":432,"name":"F250 Super Duty Regular Cab","engine_capacity":3.9964823630934916,"horsepower":358,"brand_id":657}
+{"id":433,"name":"Explorer Sport Trac","engine_capacity":2.863402278496822,"horsepower":385,"brand_id":592}
+{"id":434,"name":"626","engine_capacity":2.6465004626166406,"horsepower":127,"brand_id":127}
+{"id":435,"name":"C-Class","engine_capacity":3.830436344887022,"horsepower":288,"brand_id":927}
+{"id":436,"name":"Z3","engine_capacity":4.496412220287378,"horsepower":407,"brand_id":42}
+{"id":437,"name":"Sedona","engine_capacity":2.628301833473257,"horsepower":159,"brand_id":745}
+{"id":438,"name":"4C Spider","engine_capacity":3.9805680810921986,"horsepower":234,"brand_id":705}
+{"id":439,"name":"S2000","engine_capacity":3.8036301060343396,"horsepower":394,"brand_id":796}
+{"id":440,"name":"4Runner","engine_capacity":0.9896636337332007,"horsepower":367,"brand_id":225}
+{"id":441,"name":"A8","engine_capacity":2.32463543509385,"horsepower":319,"brand_id":899}
+{"id":442,"name":"626","engine_capacity":3.9149301231723053,"horsepower":177,"brand_id":958}
+{"id":443,"name":"Tucson","engine_capacity":2.965285976415206,"horsepower":361,"brand_id":515}
+{"id":444,"name":"Astro Cargo","engine_capacity":1.9028421809299605,"horsepower":324,"brand_id":707}
+{"id":445,"name":"Versa","engine_capacity":1.9848335572165854,"horsepower":266,"brand_id":783}
+{"id":446,"name":"Sundance","engine_capacity":3.878768621101475,"horsepower":418,"brand_id":438}
+{"id":447,"name":"Montero Sport","engine_capacity":3.0667479022718904,"horsepower":123,"brand_id":227}
+{"id":448,"name":"IS F","engine_capacity":2.5105114084266855,"horsepower":488,"brand_id":971}
+{"id":449,"name":"Corolla","engine_capacity":3.9348412787747984,"horsepower":237,"brand_id":537}
+{"id":450,"name":"A7","engine_capacity":3.7093073948516304,"horsepower":411,"brand_id":140}
+{"id":451,"name":"CX-9","engine_capacity":4.1101544743600575,"horsepower":459,"brand_id":326}
+{"id":452,"name":"57","engine_capacity":2.4651851853548434,"horsepower":386,"brand_id":976}
+{"id":453,"name":"Sonata","engine_capacity":1.6387762168655386,"horsepower":448,"brand_id":449}
+{"id":454,"name":"Summit","engine_capacity":1.2840144471574828,"horsepower":270,"brand_id":777}
+{"id":455,"name":"300","engine_capacity":4.3668408501022515,"horsepower":100,"brand_id":850}
+{"id":456,"name":"Navigator","engine_capacity":2.747334845620468,"horsepower":184,"brand_id":170}
+{"id":457,"name":"Spirit","engine_capacity":4.956132968181842,"horsepower":420,"brand_id":72}
+{"id":458,"name":"R8","engine_capacity":3.01046017511615,"horsepower":437,"brand_id":321}
+{"id":459,"name":"F150 Regular Cab","engine_capacity":3.6178296294152794,"horsepower":478,"brand_id":615}
+{"id":460,"name":"GS","engine_capacity":4.9961364070703125,"horsepower":416,"brand_id":675}
+{"id":461,"name":"Transit 150 Wagon","engine_capacity":4.255315842321714,"horsepower":408,"brand_id":226}
+{"id":462,"name":"Tacoma Access Cab","engine_capacity":3.9487416853269703,"horsepower":275,"brand_id":471}
+{"id":463,"name":"Sonic","engine_capacity":3.9020379155099123,"horsepower":255,"brand_id":126}
+{"id":464,"name":"Sierra 1500 Crew Cab","engine_capacity":2.6188704638246474,"horsepower":400,"brand_id":908}
+{"id":465,"name":"Freestyle","engine_capacity":4.796249498684338,"horsepower":145,"brand_id":45}
+{"id":466,"name":"SL-Class","engine_capacity":4.919696642162111,"horsepower":376,"brand_id":153}
+{"id":467,"name":"Tundra Double Cab","engine_capacity":3.207157313676606,"horsepower":231,"brand_id":415}
+{"id":468,"name":"Accord","engine_capacity":0.8265450983418065,"horsepower":452,"brand_id":245}
+{"id":469,"name":"VUE","engine_capacity":3.052174137025842,"horsepower":449,"brand_id":803}
+{"id":470,"name":"Silverado 3500 HD Regular Cab","engine_capacity":2.273130500136895,"horsepower":324,"brand_id":798}
+{"id":471,"name":"1500 Club Coupe","engine_capacity":2.5730666823295545,"horsepower":326,"brand_id":714}
+{"id":472,"name":"Taurus","engine_capacity":1.7483562997297541,"horsepower":212,"brand_id":97}
+{"id":473,"name":"1500 Extended Cab","engine_capacity":1.1661220858258552,"horsepower":105,"brand_id":645}
+{"id":474,"name":"Ridgeline","engine_capacity":3.7490120958229385,"horsepower":282,"brand_id":54}
+{"id":475,"name":"Grand Cherokee","engine_capacity":1.3061534919249773,"horsepower":352,"brand_id":648}
+{"id":476,"name":"G80","engine_capacity":3.5182126529771374,"horsepower":321,"brand_id":955}
+{"id":477,"name":"Cherokee","engine_capacity":2.3539506026170534,"horsepower":119,"brand_id":321}
+{"id":478,"name":"Mercedes-AMG CLA","engine_capacity":3.9238591892114503,"horsepower":312,"brand_id":356}
+{"id":479,"name":"Express 1500 Passenger","engine_capacity":4.79526169475589,"horsepower":449,"brand_id":981}
+{"id":480,"name":"B-Series Cab Plus","engine_capacity":3.8392520863896973,"horsepower":245,"brand_id":140}
+{"id":481,"name":"F350 Super Duty Crew Cab","engine_capacity":3.539473240356327,"horsepower":128,"brand_id":648}
+{"id":482,"name":"3-Sep","engine_capacity":1.1296514909188837,"horsepower":315,"brand_id":594}
+{"id":483,"name":"Corvette","engine_capacity":2.133232620949795,"horsepower":200,"brand_id":790}
+{"id":484,"name":"Tundra Regular Cab","engine_capacity":2.5423658696632696,"horsepower":356,"brand_id":768}
+{"id":485,"name":"Aventador","engine_capacity":0.851737585977277,"horsepower":178,"brand_id":160}
+{"id":486,"name":"Escort","engine_capacity":3.947008383856737,"horsepower":319,"brand_id":865}
+{"id":487,"name":"Jetta (New)","engine_capacity":3.2473198608864244,"horsepower":445,"brand_id":24}
+{"id":488,"name":"Bravada","engine_capacity":2.1437855521119906,"horsepower":314,"brand_id":446}
+{"id":489,"name":"Galant","engine_capacity":0.9151402858810911,"horsepower":220,"brand_id":190}
+{"id":490,"name":"Sprinter 2500 Crew","engine_capacity":1.368113032751809,"horsepower":100,"brand_id":162}
+{"id":491,"name":"Grand Am","engine_capacity":1.0791631421582,"horsepower":358,"brand_id":828}
+{"id":492,"name":"5 Series","engine_capacity":1.7857067597629703,"horsepower":275,"brand_id":633}
+{"id":493,"name":"NV2500 HD Cargo","engine_capacity":2.298351141630142,"horsepower":189,"brand_id":339}
+{"id":494,"name":"Regal","engine_capacity":4.115548059474118,"horsepower":428,"brand_id":778}
+{"id":495,"name":"Sephia","engine_capacity":2.330088724933966,"horsepower":131,"brand_id":846}
+{"id":496,"name":"Ranger Regular Cab","engine_capacity":1.8592816109621664,"horsepower":340,"brand_id":817}
+{"id":497,"name":"Explorer Sport Trac","engine_capacity":3.2105743980666297,"horsepower":246,"brand_id":737}
+{"id":498,"name":"S40","engine_capacity":1.784758479488165,"horsepower":329,"brand_id":930}
+{"id":499,"name":"Murano","engine_capacity":4.280373449698234,"horsepower":436,"brand_id":730}
+{"id":500,"name":"Escalade ESV","engine_capacity":3.5433001578613723,"horsepower":367,"brand_id":891}
+{"id":501,"name":"3 Series","engine_capacity":2.590016600132349,"horsepower":438,"brand_id":48}
+{"id":502,"name":"Santa Fe Sport","engine_capacity":4.875809626924097,"horsepower":339,"brand_id":330}
+{"id":503,"name":"Wraith","engine_capacity":4.671212967720113,"horsepower":228,"brand_id":270}
+{"id":504,"name":"Cavalier","engine_capacity":1.8548884590787362,"horsepower":91,"brand_id":36}
+{"id":505,"name":"Sebring","engine_capacity":1.7741013625907482,"horsepower":419,"brand_id":192}
+{"id":506,"name":"Avalanche 2500","engine_capacity":0.9294097446389717,"horsepower":258,"brand_id":609}
+{"id":507,"name":"CL","engine_capacity":2.331189541271198,"horsepower":429,"brand_id":1}
+{"id":508,"name":"Grand Cherokee","engine_capacity":2.874285923528536,"horsepower":342,"brand_id":975}
+{"id":509,"name":"E-PACE","engine_capacity":1.3483214820881861,"horsepower":228,"brand_id":551}
+{"id":510,"name":"350Z","engine_capacity":3.446350063579559,"horsepower":120,"brand_id":152}
+{"id":511,"name":"Avalanche","engine_capacity":2.185101808180459,"horsepower":477,"brand_id":301}
+{"id":512,"name":"Monte Carlo","engine_capacity":1.5649972450369576,"horsepower":171,"brand_id":147}
+{"id":513,"name":"Sierra 2500 HD Regular Cab","engine_capacity":2.444270533221202,"horsepower":147,"brand_id":358}
+{"id":514,"name":"B-Series Regular Cab","engine_capacity":1.970102264803672,"horsepower":405,"brand_id":355}
+{"id":515,"name":"Classic","engine_capacity":4.962911318181319,"horsepower":389,"brand_id":844}
+{"id":516,"name":"Lucerne","engine_capacity":1.9852187815046882,"horsepower":390,"brand_id":929}
+{"id":517,"name":"Grand Cherokee","engine_capacity":3.6527709722661923,"horsepower":371,"brand_id":400}
+{"id":518,"name":"F350 Super Duty Crew Cab","engine_capacity":2.986031040349074,"horsepower":190,"brand_id":620}
+{"id":519,"name":"626","engine_capacity":4.579256379007965,"horsepower":208,"brand_id":414}
+{"id":520,"name":"MDX","engine_capacity":1.4042267860510185,"horsepower":88,"brand_id":780}
+{"id":521,"name":"Sierra 1500 Extended Cab","engine_capacity":2.7140092418612336,"horsepower":83,"brand_id":527}
+{"id":522,"name":"Elise","engine_capacity":4.158134669253271,"horsepower":455,"brand_id":450}
+{"id":523,"name":"Astro Cargo","engine_capacity":1.293813667508958,"horsepower":191,"brand_id":747}
+{"id":524,"name":"7 Series","engine_capacity":4.2238776459570815,"horsepower":147,"brand_id":434}
+{"id":525,"name":"Q5","engine_capacity":1.8316361660138936,"horsepower":288,"brand_id":238}
+{"id":526,"name":"Silverado 2500 HD Extended Cab","engine_capacity":4.156581108864065,"horsepower":307,"brand_id":420}
+{"id":527,"name":"5-Sep","engine_capacity":2.8495539760941053,"horsepower":344,"brand_id":775}
+{"id":528,"name":"Accent","engine_capacity":4.008649276655821,"horsepower":332,"brand_id":288}
+{"id":529,"name":"Pilot","engine_capacity":1.2248428520161936,"horsepower":230,"brand_id":211}
+{"id":530,"name":"570S","engine_capacity":3.5668131985980134,"horsepower":372,"brand_id":474}
+{"id":531,"name":"F350 Super Duty Super Cab","engine_capacity":2.1436607913269485,"horsepower":224,"brand_id":926}
+{"id":532,"name":"B-Series Regular Cab","engine_capacity":3.242441083984329,"horsepower":127,"brand_id":176}
+{"id":533,"name":"1500 Regular Cab","engine_capacity":3.6860159688750933,"horsepower":299,"brand_id":710}
+{"id":534,"name":"Sierra (Classic) 3500 Regular Cab","engine_capacity":4.0434020508947155,"horsepower":409,"brand_id":760}
+{"id":535,"name":"Sprinter 3500XD Cargo","engine_capacity":2.2724042405224667,"horsepower":165,"brand_id":834}
+{"id":536,"name":"DeVille","engine_capacity":4.982181119570012,"horsepower":262,"brand_id":175}
+{"id":537,"name":"Park Avenue","engine_capacity":1.4057348523268858,"horsepower":183,"brand_id":232}
+{"id":538,"name":"MX-5 Miata","engine_capacity":1.082063072853683,"horsepower":225,"brand_id":621}
+{"id":539,"name":"G-Series 1500","engine_capacity":2.969194017195173,"horsepower":389,"brand_id":462}
+{"id":540,"name":"QX70","engine_capacity":4.934472814912101,"horsepower":174,"brand_id":203}
+{"id":541,"name":"Tundra Double Cab","engine_capacity":4.08136038484989,"horsepower":467,"brand_id":138}
+{"id":542,"name":"Town & Country","engine_capacity":3.096754557760687,"horsepower":195,"brand_id":437}
+{"id":543,"name":"F250 Super Duty Regular Cab","engine_capacity":1.6178457317177435,"horsepower":338,"brand_id":698}
+{"id":544,"name":"Suburban 2500","engine_capacity":4.4803083784475515,"horsepower":398,"brand_id":826}
+{"id":545,"name":"Forte","engine_capacity":2.090030701436225,"horsepower":240,"brand_id":159}
+{"id":546,"name":"968","engine_capacity":2.4774791971184955,"horsepower":334,"brand_id":547}
+{"id":547,"name":"GTI","engine_capacity":3.99643068842365,"horsepower":133,"brand_id":64}
+{"id":548,"name":"CLS-Class","engine_capacity":2.3993800152379223,"horsepower":376,"brand_id":810}
+{"id":549,"name":"Tacoma Access Cab","engine_capacity":1.0358727271861559,"horsepower":126,"brand_id":686}
+{"id":550,"name":"E250 Cargo","engine_capacity":3.2782171522979633,"horsepower":261,"brand_id":233}
+{"id":551,"name":"929","engine_capacity":3.090961275718529,"horsepower":337,"brand_id":987}
+{"id":552,"name":"Pathfinder","engine_capacity":1.8537202378821662,"horsepower":485,"brand_id":340}
+{"id":553,"name":"A4","engine_capacity":3.5197053274654957,"horsepower":176,"brand_id":402}
+{"id":554,"name":"Sprinter 2500 Passenger","engine_capacity":2.0984754109803063,"horsepower":333,"brand_id":96}
+{"id":555,"name":"CT","engine_capacity":1.773083190182653,"horsepower":127,"brand_id":67}
+{"id":556,"name":"City Express","engine_capacity":1.8320268534839206,"horsepower":327,"brand_id":195}
+{"id":557,"name":"Caliber","engine_capacity":1.7355829853253755,"horsepower":345,"brand_id":806}
+{"id":558,"name":"Ram 3500 Club Cab","engine_capacity":3.1676605600240464,"horsepower":182,"brand_id":194}
+{"id":559,"name":"Savana 3500 Passenger","engine_capacity":1.3800710056257546,"horsepower":331,"brand_id":919}
+{"id":560,"name":"F350 Super Duty Crew Cab","engine_capacity":4.318357495341558,"horsepower":466,"brand_id":293}
+{"id":561,"name":"RAV4","engine_capacity":1.3452898657496326,"horsepower":208,"brand_id":993}
+{"id":562,"name":"Veracruz","engine_capacity":4.9178209318609225,"horsepower":428,"brand_id":480}
+{"id":563,"name":"Sierra 1500 Extended Cab","engine_capacity":4.864412276249674,"horsepower":483,"brand_id":492}
+{"id":564,"name":"CX-3","engine_capacity":2.074092358798697,"horsepower":225,"brand_id":497}
+{"id":565,"name":"Sierra 3500 HD Regular Cab","engine_capacity":4.935119641650595,"horsepower":341,"brand_id":675}
+{"id":566,"name":"Sedona","engine_capacity":1.6169119573864261,"horsepower":432,"brand_id":456}
+{"id":567,"name":"Safari Cargo","engine_capacity":0.8886654886120514,"horsepower":401,"brand_id":7}
+{"id":568,"name":"Montero Sport","engine_capacity":4.510595341315201,"horsepower":464,"brand_id":337}
+{"id":569,"name":"allroad","engine_capacity":3.0090427446343337,"horsepower":311,"brand_id":3}
+{"id":570,"name":"DeVille","engine_capacity":2.4369392323862575,"horsepower":401,"brand_id":36}
+{"id":571,"name":"Ram 2500 Club Cab","engine_capacity":1.0047997735275145,"horsepower":357,"brand_id":420}
+{"id":572,"name":"4Runner","engine_capacity":1.6323225242591777,"horsepower":204,"brand_id":233}
+{"id":573,"name":"B-Series Cab Plus","engine_capacity":3.814824071516284,"horsepower":155,"brand_id":684}
+{"id":574,"name":"Bentayga","engine_capacity":4.439943846772723,"horsepower":340,"brand_id":648}
+{"id":575,"name":"S-Series","engine_capacity":1.930605758313239,"horsepower":411,"brand_id":834}
+{"id":576,"name":"Express 2500 Passenger","engine_capacity":2.60152036338576,"horsepower":155,"brand_id":809}
+{"id":577,"name":"Cascada","engine_capacity":3.297049492667946,"horsepower":134,"brand_id":344}
+{"id":578,"name":"RX","engine_capacity":1.108049183868375,"horsepower":330,"brand_id":165}
+{"id":579,"name":"Express 3500 Passenger","engine_capacity":2.738546357845204,"horsepower":320,"brand_id":805}
+{"id":580,"name":"Cavalier","engine_capacity":2.0769586747673285,"horsepower":337,"brand_id":647}
+{"id":581,"name":"Transit 250 Van","engine_capacity":2.080270438052275,"horsepower":200,"brand_id":341}
+{"id":582,"name":"Integra","engine_capacity":2.867940895349089,"horsepower":275,"brand_id":967}
+{"id":583,"name":"S10 Extended Cab","engine_capacity":4.9406069561258805,"horsepower":412,"brand_id":404}
+{"id":584,"name":"7 Series","engine_capacity":2.406913210357658,"horsepower":225,"brand_id":147}
+{"id":585,"name":"H3","engine_capacity":0.8361234400039848,"horsepower":485,"brand_id":663}
+{"id":586,"name":"Highlander","engine_capacity":3.031064118206193,"horsepower":189,"brand_id":13}
+{"id":587,"name":"Intrepid","engine_capacity":3.1497009034695536,"horsepower":311,"brand_id":731}
+{"id":588,"name":"V40","engine_capacity":1.804870420475987,"horsepower":115,"brand_id":968}
+{"id":589,"name":"Routan","engine_capacity":3.439104621261748,"horsepower":239,"brand_id":878}
+{"id":590,"name":"Pacifica","engine_capacity":1.9820760648577493,"horsepower":498,"brand_id":88}
+{"id":591,"name":"Quattroporte","engine_capacity":3.0383245345661436,"horsepower":273,"brand_id":552}
+{"id":592,"name":"Yukon XL 1500","engine_capacity":1.3512554429535664,"horsepower":172,"brand_id":740}
+{"id":593,"name":"Silverado 2500 Extended Cab","engine_capacity":3.4712602632176077,"horsepower":335,"brand_id":704}
+{"id":594,"name":"Montana","engine_capacity":3.0258688177782362,"horsepower":87,"brand_id":516}
+{"id":595,"name":"Z4","engine_capacity":3.6251809593285147,"horsepower":261,"brand_id":536}
+{"id":596,"name":"iM","engine_capacity":3.7791961159328746,"horsepower":190,"brand_id":278}
+{"id":597,"name":"Sedona","engine_capacity":3.7608833510646233,"horsepower":166,"brand_id":542}
+{"id":598,"name":"Talon","engine_capacity":3.7258800295800913,"horsepower":445,"brand_id":830}
+{"id":599,"name":"Colorado Extended Cab","engine_capacity":4.006789403181081,"horsepower":125,"brand_id":262}
+{"id":600,"name":"GranTurismo","engine_capacity":2.5886162432831767,"horsepower":260,"brand_id":621}
+{"id":601,"name":"Ram 1500 Regular Cab","engine_capacity":2.6008289245689067,"horsepower":375,"brand_id":197}
+{"id":602,"name":"Cabrio","engine_capacity":3.512418806859519,"horsepower":490,"brand_id":195}
+{"id":603,"name":"Sprinter 3500 Cargo","engine_capacity":1.1198279070749713,"horsepower":138,"brand_id":777}
+{"id":604,"name":"Mercedes-AMG GLC","engine_capacity":2.9609692404186854,"horsepower":456,"brand_id":180}
+{"id":605,"name":"SRX","engine_capacity":3.505525639066386,"horsepower":455,"brand_id":491}
+{"id":606,"name":"6 Series","engine_capacity":0.8775438725647693,"horsepower":366,"brand_id":602}
+{"id":607,"name":"Montero Sport","engine_capacity":4.785966528082343,"horsepower":82,"brand_id":149}
+{"id":608,"name":"Caravan Cargo","engine_capacity":3.6024620794506683,"horsepower":233,"brand_id":824}
+{"id":609,"name":"Avalanche 1500","engine_capacity":2.766299273175693,"horsepower":401,"brand_id":487}
+{"id":610,"name":"Crown Victoria","engine_capacity":2.0027819915604956,"horsepower":206,"brand_id":470}
+{"id":611,"name":"4Runner","engine_capacity":3.9765293729303206,"horsepower":93,"brand_id":905}
+{"id":612,"name":"Navigator","engine_capacity":4.87651938173646,"horsepower":112,"brand_id":211}
+{"id":613,"name":"IS","engine_capacity":4.462044604287589,"horsepower":83,"brand_id":832}
+{"id":614,"name":"Ciera","engine_capacity":1.176593341648582,"horsepower":350,"brand_id":271}
+{"id":615,"name":"GS","engine_capacity":3.735799924854449,"horsepower":184,"brand_id":46}
+{"id":616,"name":"Bonneville","engine_capacity":4.218422768460229,"horsepower":371,"brand_id":755}
+{"id":617,"name":"Versa Note","engine_capacity":1.2683975054946435,"horsepower":441,"brand_id":208}
+{"id":618,"name":"Sierra 1500 Extended Cab","engine_capacity":1.6337774413705033,"horsepower":377,"brand_id":680}
+{"id":619,"name":"Tucson","engine_capacity":3.33038720732997,"horsepower":126,"brand_id":831}
+{"id":620,"name":"Dakota Regular Cab","engine_capacity":4.149260502871641,"horsepower":121,"brand_id":920}
+{"id":621,"name":"Veracruz","engine_capacity":2.6648735600268516,"horsepower":244,"brand_id":565}
+{"id":622,"name":"A8","engine_capacity":3.3838258077605206,"horsepower":442,"brand_id":323}
+{"id":623,"name":"Malibu","engine_capacity":1.467128158179077,"horsepower":199,"brand_id":488}
+{"id":624,"name":"F350 Super Duty Super Cab","engine_capacity":2.1559875823587245,"horsepower":267,"brand_id":101}
+{"id":625,"name":"Fusion","engine_capacity":2.442615250226255,"horsepower":294,"brand_id":210}
+{"id":626,"name":"Mariner","engine_capacity":4.639428011520308,"horsepower":140,"brand_id":394}
+{"id":627,"name":"Passat","engine_capacity":0.8474121021247608,"horsepower":107,"brand_id":971}
+{"id":628,"name":"TL","engine_capacity":3.094186134027016,"horsepower":354,"brand_id":987}
+{"id":629,"name":"Edge","engine_capacity":1.8611417402408474,"horsepower":494,"brand_id":533}
+{"id":630,"name":"iQ","engine_capacity":3.1174083225713405,"horsepower":356,"brand_id":322}
+{"id":631,"name":"GTI","engine_capacity":1.5800531849326598,"horsepower":279,"brand_id":820}
+{"id":632,"name":"Transit 350 HD Van","engine_capacity":1.2438128124919774,"horsepower":259,"brand_id":989}
+{"id":633,"name":"S40","engine_capacity":0.8542164056259354,"horsepower":434,"brand_id":240}
+{"id":634,"name":"CLK-Class","engine_capacity":4.464399366302213,"horsepower":349,"brand_id":987}
+{"id":635,"name":"Elantra","engine_capacity":1.8433245187446146,"horsepower":286,"brand_id":282}
+{"id":636,"name":"Prius Plug-in Hybrid","engine_capacity":3.2267180314715036,"horsepower":202,"brand_id":810}
+{"id":637,"name":"Focus ST","engine_capacity":2.7353305517873627,"horsepower":184,"brand_id":786}
+{"id":638,"name":"Sonata Plug-in Hybrid","engine_capacity":3.8800227115980315,"horsepower":100,"brand_id":618}
+{"id":639,"name":"I","engine_capacity":2.6236466668558505,"horsepower":229,"brand_id":146}
+{"id":640,"name":"Veracruz","engine_capacity":3.711728723141837,"horsepower":102,"brand_id":864}
+{"id":641,"name":"Accord Hybrid","engine_capacity":4.725257026207078,"horsepower":88,"brand_id":967}
+{"id":642,"name":"Silverado (Classic) 2500 HD Regular Cab","engine_capacity":1.6403534701873868,"horsepower":309,"brand_id":370}
+{"id":643,"name":"X5","engine_capacity":1.1736570159316861,"horsepower":442,"brand_id":738}
+{"id":644,"name":"Beretta","engine_capacity":4.703508428374309,"horsepower":207,"brand_id":916}
+{"id":645,"name":"Envision","engine_capacity":3.54907049458079,"horsepower":394,"brand_id":833}
+{"id":646,"name":"Envoy XUV","engine_capacity":4.796872550559166,"horsepower":321,"brand_id":870}
+{"id":647,"name":"Forte","engine_capacity":0.9677734911332128,"horsepower":462,"brand_id":393}
+{"id":648,"name":"Grand Caravan Passenger","engine_capacity":3.4497255402804656,"horsepower":141,"brand_id":499}
+{"id":649,"name":"Stratus","engine_capacity":1.4882440521148173,"horsepower":262,"brand_id":565}
+{"id":650,"name":"Esteem","engine_capacity":1.5766031342250912,"horsepower":149,"brand_id":938}
+{"id":651,"name":"Ioniq Hybrid","engine_capacity":3.7484439833823364,"horsepower":152,"brand_id":988}
+{"id":652,"name":"8 Series","engine_capacity":3.2192350256072553,"horsepower":366,"brand_id":797}
+{"id":653,"name":"Yaris","engine_capacity":4.571905452275887,"horsepower":382,"brand_id":257}
+{"id":654,"name":"Legend","engine_capacity":1.3520404213541548,"horsepower":256,"brand_id":248}
+{"id":655,"name":"Silverado 2500 HD Crew Cab","engine_capacity":1.3708740138511635,"horsepower":256,"brand_id":614}
+{"id":656,"name":"GranTurismo","engine_capacity":0.8369802650981204,"horsepower":119,"brand_id":554}
+{"id":657,"name":"3500 Extended Cab","engine_capacity":3.592958294396041,"horsepower":403,"brand_id":224}
+{"id":658,"name":"Econoline E350 Super Duty Cargo","engine_capacity":4.043791514027797,"horsepower":97,"brand_id":272}
+{"id":659,"name":"F350 Super Duty Crew Cab","engine_capacity":4.286229908789846,"horsepower":335,"brand_id":778}
+{"id":660,"name":"Fiesta","engine_capacity":2.6261462697808615,"horsepower":85,"brand_id":721}
+{"id":661,"name":"Silverado 3500 HD Extended Cab","engine_capacity":1.0260498338264417,"horsepower":404,"brand_id":472}
+{"id":662,"name":"Avalon","engine_capacity":3.405488031003583,"horsepower":156,"brand_id":507}
+{"id":663,"name":"SL-Class","engine_capacity":3.086150101957508,"horsepower":251,"brand_id":366}
+{"id":664,"name":"fortwo electric drive","engine_capacity":2.627565833992646,"horsepower":427,"brand_id":869}
+{"id":665,"name":"6 Series","engine_capacity":3.354557545453697,"horsepower":145,"brand_id":209}
+{"id":666,"name":"Range Rover Sport","engine_capacity":3.1320001704591682,"horsepower":405,"brand_id":584}
+{"id":667,"name":"Avalon","engine_capacity":2.317310235005882,"horsepower":355,"brand_id":851}
+{"id":668,"name":"Insight","engine_capacity":4.155382313797172,"horsepower":310,"brand_id":59}
+{"id":669,"name":"Cruze","engine_capacity":2.6626325129053114,"horsepower":285,"brand_id":521}
+{"id":670,"name":"Ram 1500 Mega Cab","engine_capacity":3.5328258786324467,"horsepower":464,"brand_id":595}
+{"id":671,"name":"Murano","engine_capacity":2.042639299917363,"horsepower":485,"brand_id":172}
+{"id":672,"name":"RLX","engine_capacity":2.1954469529989193,"horsepower":189,"brand_id":27}
+{"id":673,"name":"TL","engine_capacity":0.8617686452935439,"horsepower":313,"brand_id":596}
+{"id":674,"name":"RS 4","engine_capacity":4.462894702247649,"horsepower":165,"brand_id":869}
+{"id":675,"name":"i-MiEV","engine_capacity":1.775985332731914,"horsepower":413,"brand_id":468}
+{"id":676,"name":"Savana 3500 Passenger","engine_capacity":1.9030325896044413,"horsepower":202,"brand_id":29}
+{"id":677,"name":"Stinger","engine_capacity":2.274158703070584,"horsepower":285,"brand_id":682}
+{"id":678,"name":"Silverado 3500 Extended Cab","engine_capacity":3.0035940245364916,"horsepower":324,"brand_id":204}
+{"id":679,"name":"Silverado 1500 Crew Cab","engine_capacity":1.4308479807772458,"horsepower":358,"brand_id":274}
+{"id":680,"name":"Lancer","engine_capacity":4.617834248978344,"horsepower":84,"brand_id":463}
+{"id":681,"name":"E-PACE","engine_capacity":1.7285254788174633,"horsepower":235,"brand_id":476}
+{"id":682,"name":"Tacoma Xtracab","engine_capacity":1.9454995345514203,"horsepower":152,"brand_id":602}
+{"id":683,"name":"5 Series","engine_capacity":3.706026370662123,"horsepower":288,"brand_id":59}
+{"id":684,"name":"M5","engine_capacity":2.7662468556828093,"horsepower":200,"brand_id":393}
+{"id":685,"name":"e-tron","engine_capacity":2.62259302973517,"horsepower":224,"brand_id":740}
+{"id":686,"name":"Ram Wagon 2500","engine_capacity":4.980231235368165,"horsepower":126,"brand_id":564}
+{"id":687,"name":"Passport","engine_capacity":1.1462176206206272,"horsepower":214,"brand_id":94}
+{"id":688,"name":"Liberty","engine_capacity":1.3313535311239146,"horsepower":168,"brand_id":106}
+{"id":689,"name":"Trooper","engine_capacity":4.831186613120467,"horsepower":197,"brand_id":450}
+{"id":690,"name":"Touareg","engine_capacity":2.480762502577333,"horsepower":143,"brand_id":658}
+{"id":691,"name":"500e","engine_capacity":2.237407380610083,"horsepower":137,"brand_id":628}
+{"id":692,"name":"G-Series G10","engine_capacity":3.2539774498700824,"horsepower":235,"brand_id":577}
+{"id":693,"name":"e-Golf","engine_capacity":2.925612388946978,"horsepower":362,"brand_id":772}
+{"id":694,"name":"WRX","engine_capacity":4.263964712585598,"horsepower":418,"brand_id":742}
+{"id":695,"name":"62","engine_capacity":4.688515674209417,"horsepower":463,"brand_id":494}
+{"id":696,"name":"Malibu","engine_capacity":2.3855207094545614,"horsepower":474,"brand_id":938}
+{"id":697,"name":"Impala","engine_capacity":1.9195818828565194,"horsepower":426,"brand_id":23}
+{"id":698,"name":"Club Wagon","engine_capacity":1.032883153315809,"horsepower":158,"brand_id":897}
+{"id":699,"name":"Edge","engine_capacity":3.6901261513668198,"horsepower":396,"brand_id":380}
+{"id":700,"name":"911","engine_capacity":1.9644770152185458,"horsepower":402,"brand_id":403}
+{"id":701,"name":"Elise","engine_capacity":1.8288161216203196,"horsepower":346,"brand_id":499}
+{"id":702,"name":"Aventador","engine_capacity":1.1193444406453168,"horsepower":223,"brand_id":441}
+{"id":703,"name":"G","engine_capacity":3.5279309135782535,"horsepower":98,"brand_id":832}
+{"id":704,"name":"Charger","engine_capacity":3.5983735408785513,"horsepower":194,"brand_id":251}
+{"id":705,"name":"C30","engine_capacity":1.142973095829597,"horsepower":447,"brand_id":179}
+{"id":706,"name":"Cherokee","engine_capacity":3.1458728802322566,"horsepower":228,"brand_id":426}
+{"id":707,"name":"QX","engine_capacity":4.654721290797495,"horsepower":324,"brand_id":886}
+{"id":708,"name":"Dakota Club Cab","engine_capacity":1.9760712100470474,"horsepower":314,"brand_id":766}
+{"id":709,"name":"Summit","engine_capacity":4.164548766943303,"horsepower":362,"brand_id":575}
+{"id":710,"name":"ES","engine_capacity":2.2732735389932888,"horsepower":102,"brand_id":547}
+{"id":711,"name":"Montero","engine_capacity":2.409464171280589,"horsepower":358,"brand_id":305}
+{"id":712,"name":"Escalade","engine_capacity":4.095147786184146,"horsepower":296,"brand_id":653}
+{"id":713,"name":"Tiguan","engine_capacity":1.9910358230547989,"horsepower":276,"brand_id":874}
+{"id":714,"name":"240SX","engine_capacity":3.8115203001134947,"horsepower":159,"brand_id":118}
+{"id":715,"name":"CL","engine_capacity":2.4207195932629437,"horsepower":333,"brand_id":952}
+{"id":716,"name":"Express 1500 Cargo","engine_capacity":1.3036805594209293,"horsepower":253,"brand_id":61}
+{"id":717,"name":"Monterey","engine_capacity":3.4222312217406063,"horsepower":365,"brand_id":456}
+{"id":718,"name":"Ram 3500 Club Cab","engine_capacity":3.772457465447034,"horsepower":266,"brand_id":66}
+{"id":719,"name":"Solstice","engine_capacity":1.8022187101664056,"horsepower":348,"brand_id":875}
+{"id":720,"name":"X5","engine_capacity":4.796269750773603,"horsepower":90,"brand_id":732}
+{"id":721,"name":"Sierra 2500 HD Extended Cab","engine_capacity":4.256846169394698,"horsepower":367,"brand_id":789}
+{"id":722,"name":"Pilot","engine_capacity":3.3328844678371796,"horsepower":245,"brand_id":129}
+{"id":723,"name":"S80","engine_capacity":0.8668320661295998,"horsepower":139,"brand_id":175}
+{"id":724,"name":"Grand Marquis","engine_capacity":1.8870228703492713,"horsepower":415,"brand_id":136}
+{"id":725,"name":"Accord Hybrid","engine_capacity":0.8346742251481463,"horsepower":136,"brand_id":276}
+{"id":726,"name":"NV1500 Cargo","engine_capacity":2.324720108827835,"horsepower":161,"brand_id":452}
+{"id":727,"name":"Econoline E350 Cargo","engine_capacity":4.333344207325729,"horsepower":273,"brand_id":925}
+{"id":728,"name":"Supra","engine_capacity":2.5969578565048845,"horsepower":378,"brand_id":904}
+{"id":729,"name":"Sierra 1500 Crew Cab","engine_capacity":0.8707927965024457,"horsepower":112,"brand_id":39}
+{"id":730,"name":"Caprice Classic","engine_capacity":2.4198661276251405,"horsepower":290,"brand_id":759}
+{"id":731,"name":"Murano","engine_capacity":4.500239437331717,"horsepower":484,"brand_id":832}
+{"id":732,"name":"Eclipse","engine_capacity":4.25982850169138,"horsepower":492,"brand_id":35}
+{"id":733,"name":"Yukon","engine_capacity":1.2243375372379988,"horsepower":165,"brand_id":756}
+{"id":734,"name":"F350 Super Duty Crew Cab","engine_capacity":0.9197880332753279,"horsepower":138,"brand_id":836}
+{"id":735,"name":"B-Class","engine_capacity":4.82070379583215,"horsepower":303,"brand_id":761}
+{"id":736,"name":"Neon","engine_capacity":1.6073077999701968,"horsepower":372,"brand_id":548}
+{"id":737,"name":"XJ","engine_capacity":4.420937372721281,"horsepower":363,"brand_id":738}
+{"id":738,"name":"Hombre Regular Cab","engine_capacity":3.983768352169726,"horsepower":144,"brand_id":597}
+{"id":739,"name":"Prius","engine_capacity":1.018673514976151,"horsepower":145,"brand_id":219}
+{"id":740,"name":"Sierra 1500 Regular Cab","engine_capacity":1.9267912777840637,"horsepower":228,"brand_id":414}
+{"id":741,"name":"626","engine_capacity":3.8446122411288366,"horsepower":366,"brand_id":543}
+{"id":742,"name":"Explorer","engine_capacity":2.2337789993521975,"horsepower":460,"brand_id":692}
+{"id":743,"name":"Montero","engine_capacity":2.798723655948077,"horsepower":154,"brand_id":588}
+{"id":744,"name":"Econoline E150 Cargo","engine_capacity":3.398878083552966,"horsepower":396,"brand_id":813}
+{"id":745,"name":"RAV4","engine_capacity":2.4565728046453073,"horsepower":432,"brand_id":990}
+{"id":746,"name":"Express 3500 Cargo","engine_capacity":2.7637352922127216,"horsepower":314,"brand_id":576}
+{"id":747,"name":"Prius Prime","engine_capacity":1.9506406718258507,"horsepower":308,"brand_id":443}
+{"id":748,"name":"Trans Sport","engine_capacity":1.9686294628085206,"horsepower":177,"brand_id":145}
+{"id":749,"name":"Talon","engine_capacity":1.6392033272470812,"horsepower":263,"brand_id":946}
+{"id":750,"name":"Aspire","engine_capacity":1.3637711872989917,"horsepower":425,"brand_id":103}
+{"id":751,"name":"MKT","engine_capacity":3.9512896433886553,"horsepower":256,"brand_id":590}
+{"id":752,"name":"tC","engine_capacity":2.550298268660101,"horsepower":112,"brand_id":343}
+{"id":753,"name":"Silverado 2500 Regular Cab","engine_capacity":2.571011730286273,"horsepower":159,"brand_id":699}
+{"id":754,"name":"Jetta (New)","engine_capacity":4.670009551778033,"horsepower":388,"brand_id":484}
+{"id":755,"name":"S-Class","engine_capacity":1.9542414303871838,"horsepower":303,"brand_id":943}
+{"id":756,"name":"Silverado 2500 HD Extended Cab","engine_capacity":2.3810913852780375,"horsepower":372,"brand_id":940}
+{"id":757,"name":"Range Rover Sport","engine_capacity":4.537287375781317,"horsepower":94,"brand_id":820}
+{"id":758,"name":"Rally Wagon 1500","engine_capacity":4.4254798855787545,"horsepower":284,"brand_id":411}
+{"id":759,"name":"5 Series","engine_capacity":1.180086273953206,"horsepower":236,"brand_id":25}
+{"id":760,"name":"XC90","engine_capacity":0.987925473809373,"horsepower":426,"brand_id":241}
+{"id":761,"name":"Spark","engine_capacity":3.113892327190295,"horsepower":281,"brand_id":781}
+{"id":762,"name":"Ram 1500 Regular Cab","engine_capacity":1.8448050657401274,"horsepower":173,"brand_id":762}
+{"id":763,"name":"Protege","engine_capacity":1.4820936268449727,"horsepower":470,"brand_id":917}
+{"id":764,"name":"Cougar","engine_capacity":2.669054313092743,"horsepower":176,"brand_id":90}
+{"id":765,"name":"CL-Class","engine_capacity":3.0203153048632307,"horsepower":96,"brand_id":173}
+{"id":766,"name":"Endeavor","engine_capacity":4.490340697710901,"horsepower":342,"brand_id":86}
+{"id":767,"name":"Express 1500 Cargo","engine_capacity":1.2239274832214997,"horsepower":499,"brand_id":910}
+{"id":768,"name":"CL-Class","engine_capacity":2.121215519431723,"horsepower":298,"brand_id":102}
+{"id":769,"name":"Ram 2500 Club Cab","engine_capacity":2.948050876307356,"horsepower":91,"brand_id":424}
+{"id":770,"name":"Camaro","engine_capacity":3.543179817173735,"horsepower":155,"brand_id":335}
+{"id":771,"name":"Monterey","engine_capacity":2.316316607785401,"horsepower":227,"brand_id":239}
+{"id":772,"name":"Transit 150 Van","engine_capacity":2.2271335062066786,"horsepower":406,"brand_id":111}
+{"id":773,"name":"Silverado 2500 HD Crew Cab","engine_capacity":3.7974997180164394,"horsepower":196,"brand_id":88}
+{"id":774,"name":"F150 Super Cab","engine_capacity":2.3952289354643703,"horsepower":324,"brand_id":750}
+{"id":775,"name":"Sprinter 2500 Cargo","engine_capacity":1.358405460337949,"horsepower":105,"brand_id":391}
+{"id":776,"name":"CLA","engine_capacity":3.8199715942772388,"horsepower":293,"brand_id":415}
+{"id":777,"name":"G-Series 2500","engine_capacity":1.082292976453015,"horsepower":254,"brand_id":387}
+{"id":778,"name":"NV3500 HD Cargo","engine_capacity":2.6214613075139823,"horsepower":432,"brand_id":605}
+{"id":779,"name":"iQ","engine_capacity":4.691640889836503,"horsepower":230,"brand_id":251}
+{"id":780,"name":"Tacoma Double Cab","engine_capacity":1.6923836502991798,"horsepower":172,"brand_id":568}
+{"id":781,"name":"Tacoma Regular Cab","engine_capacity":2.0642175529246938,"horsepower":371,"brand_id":844}
+{"id":782,"name":"A3","engine_capacity":3.7215972107606703,"horsepower":126,"brand_id":835}
+{"id":783,"name":"NV200","engine_capacity":2.298231576622956,"horsepower":194,"brand_id":425}
+{"id":784,"name":"Metris Passenger","engine_capacity":1.4995631511601286,"horsepower":205,"brand_id":602}
+{"id":785,"name":"Canyon Extended Cab","engine_capacity":4.88494674472497,"horsepower":242,"brand_id":346}
+{"id":786,"name":"Grand Caravan Passenger","engine_capacity":3.6895630296267905,"horsepower":291,"brand_id":197}
+{"id":787,"name":"H3T","engine_capacity":2.3366229662313183,"horsepower":448,"brand_id":659}
+{"id":788,"name":"Dakota Crew Cab","engine_capacity":4.225782432178198,"horsepower":159,"brand_id":908}
+{"id":789,"name":"Durango","engine_capacity":0.9771705934805037,"horsepower":372,"brand_id":163}
+{"id":790,"name":"Accent","engine_capacity":2.6936817771909713,"horsepower":305,"brand_id":626}
+{"id":791,"name":"Tundra Double Cab","engine_capacity":3.9252605499903073,"horsepower":434,"brand_id":741}
+{"id":792,"name":"Journey","engine_capacity":2.29528018299822,"horsepower":206,"brand_id":301}
+{"id":793,"name":"Firebird","engine_capacity":4.438105111701575,"horsepower":304,"brand_id":325}
+{"id":794,"name":"Santa Fe","engine_capacity":1.845778804743462,"horsepower":446,"brand_id":552}
+{"id":795,"name":"M4","engine_capacity":0.8855370248458032,"horsepower":211,"brand_id":629}
+{"id":796,"name":"GL-Class","engine_capacity":2.2076800406725123,"horsepower":250,"brand_id":951}
+{"id":797,"name":"GX","engine_capacity":3.156583103814211,"horsepower":120,"brand_id":274}
+{"id":798,"name":"Freelander","engine_capacity":2.2344118083408926,"horsepower":304,"brand_id":219}
+{"id":799,"name":"Sprinter 2500 Passenger","engine_capacity":4.775118036670385,"horsepower":468,"brand_id":916}
+{"id":800,"name":"GL-Class","engine_capacity":3.41011483534911,"horsepower":343,"brand_id":415}
+{"id":801,"name":"Sierra 3500 HD Regular Cab","engine_capacity":2.944352947346882,"horsepower":213,"brand_id":306}
+{"id":802,"name":"Grand Caravan Passenger","engine_capacity":1.8563867984671456,"horsepower":104,"brand_id":344}
+{"id":803,"name":"Express 1500 Passenger","engine_capacity":4.645636633239597,"horsepower":327,"brand_id":743}
+{"id":804,"name":"A4","engine_capacity":1.3678033193997456,"horsepower":125,"brand_id":43}
+{"id":805,"name":"Passat","engine_capacity":1.9307206780095216,"horsepower":334,"brand_id":229}
+{"id":806,"name":"Sonoma Extended Cab","engine_capacity":4.125234486624651,"horsepower":215,"brand_id":281}
+{"id":807,"name":"Grand Prix","engine_capacity":4.510267359656715,"horsepower":335,"brand_id":113}
+{"id":808,"name":"Econoline E150 Cargo","engine_capacity":1.3675148490471645,"horsepower":483,"brand_id":65}
+{"id":809,"name":"7 Series","engine_capacity":3.7012639899352706,"horsepower":145,"brand_id":717}
+{"id":810,"name":"Equinox","engine_capacity":3.861845807990133,"horsepower":237,"brand_id":363}
+{"id":811,"name":"Avalon","engine_capacity":1.103549369963102,"horsepower":159,"brand_id":784}
+{"id":812,"name":"Z4","engine_capacity":1.1553887187208975,"horsepower":209,"brand_id":973}
+{"id":813,"name":"E350 Super Duty Passenger","engine_capacity":2.7240533144881613,"horsepower":291,"brand_id":456}
+{"id":814,"name":"Flex","engine_capacity":4.431247849247635,"horsepower":183,"brand_id":995}
+{"id":815,"name":"Continental","engine_capacity":1.5377726615671485,"horsepower":214,"brand_id":68}
+{"id":816,"name":"Navigator L","engine_capacity":2.6348749013683355,"horsepower":133,"brand_id":477}
+{"id":817,"name":"Endeavor","engine_capacity":1.525352207456579,"horsepower":480,"brand_id":527}
+{"id":818,"name":"RL","engine_capacity":4.375548273931783,"horsepower":118,"brand_id":867}
+{"id":819,"name":"Rendezvous","engine_capacity":1.51425848161164,"horsepower":281,"brand_id":479}
+{"id":820,"name":"E-Class","engine_capacity":3.1870086081209577,"horsepower":305,"brand_id":204}
+{"id":821,"name":"NEXO","engine_capacity":3.5987295383371896,"horsepower":421,"brand_id":199}
+{"id":822,"name":"CR-V","engine_capacity":3.809632692187476,"horsepower":96,"brand_id":152}
+{"id":823,"name":"Escalade ESV","engine_capacity":3.970615117278972,"horsepower":186,"brand_id":404}
+{"id":824,"name":"5-Sep","engine_capacity":3.746837455537907,"horsepower":157,"brand_id":199}
+{"id":825,"name":"MDX","engine_capacity":3.028985527709666,"horsepower":338,"brand_id":350}
+{"id":826,"name":"QX","engine_capacity":2.3722493832565203,"horsepower":198,"brand_id":570}
+{"id":827,"name":"S2000","engine_capacity":3.409624047691409,"horsepower":191,"brand_id":157}
+{"id":828,"name":"F350 Crew Cab","engine_capacity":1.5987380094689727,"horsepower":344,"brand_id":527}
+{"id":829,"name":"S-Class","engine_capacity":2.4284711883237664,"horsepower":197,"brand_id":243}
+{"id":830,"name":"RS 3","engine_capacity":3.2864907921890927,"horsepower":85,"brand_id":696}
+{"id":831,"name":"Q7","engine_capacity":3.811157895843518,"horsepower":104,"brand_id":957}
+{"id":832,"name":"Corolla","engine_capacity":4.782139188431008,"horsepower":457,"brand_id":15}
+{"id":833,"name":"M-Class","engine_capacity":2.0920034560749534,"horsepower":497,"brand_id":965}
+{"id":834,"name":"370Z","engine_capacity":3.702363860198467,"horsepower":215,"brand_id":316}
+{"id":835,"name":"Odyssey","engine_capacity":4.452799322568307,"horsepower":394,"brand_id":832}
+{"id":836,"name":"4Runner","engine_capacity":4.302608410303434,"horsepower":183,"brand_id":637}
+{"id":837,"name":"Sierra (Classic) 1500 Regular Cab","engine_capacity":1.0518594975254443,"horsepower":374,"brand_id":292}
+{"id":838,"name":"Versa Note","engine_capacity":4.044659023416247,"horsepower":194,"brand_id":137}
+{"id":839,"name":"Taurus","engine_capacity":2.700067198949523,"horsepower":363,"brand_id":699}
+{"id":840,"name":"Mirage","engine_capacity":4.467539019839724,"horsepower":104,"brand_id":871}
+{"id":841,"name":"APV Cargo","engine_capacity":4.389590570507069,"horsepower":467,"brand_id":11}
+{"id":842,"name":"Montego","engine_capacity":2.223958463715379,"horsepower":188,"brand_id":153}
+{"id":843,"name":"Hardtop 2 Door","engine_capacity":3.326625277567949,"horsepower":384,"brand_id":733}
+{"id":844,"name":"RL","engine_capacity":2.2598508588602577,"horsepower":393,"brand_id":283}
+{"id":845,"name":"Armada","engine_capacity":3.1971911833649305,"horsepower":305,"brand_id":439}
+{"id":846,"name":"Rio","engine_capacity":1.4467716348581612,"horsepower":239,"brand_id":129}
+{"id":847,"name":"Avalon","engine_capacity":1.8059011352134127,"horsepower":100,"brand_id":509}
+{"id":848,"name":"X3","engine_capacity":1.8158588417412898,"horsepower":420,"brand_id":962}
+{"id":849,"name":"S2000","engine_capacity":1.2759907393758771,"horsepower":226,"brand_id":61}
+{"id":850,"name":"C-Class","engine_capacity":1.3023616753510443,"horsepower":243,"brand_id":195}
+{"id":851,"name":"Escape","engine_capacity":4.033137976093892,"horsepower":170,"brand_id":176}
+{"id":852,"name":"Elantra GT","engine_capacity":3.752351317225254,"horsepower":185,"brand_id":126}
+{"id":853,"name":"allroad","engine_capacity":4.103850533962938,"horsepower":339,"brand_id":147}
+{"id":854,"name":"Sedona","engine_capacity":4.540352697797071,"horsepower":321,"brand_id":85}
+{"id":855,"name":"F250 Super Duty Regular Cab","engine_capacity":2.4649761378245496,"horsepower":302,"brand_id":422}
+{"id":856,"name":"Sprinter 2500 Passenger","engine_capacity":2.375321679276095,"horsepower":406,"brand_id":715}
+{"id":857,"name":"ProMaster 3500 Cargo","engine_capacity":1.9512268007467295,"horsepower":157,"brand_id":438}
+{"id":858,"name":"A8","engine_capacity":3.0568475041029846,"horsepower":379,"brand_id":508}
+{"id":859,"name":"Silverado 1500 Regular Cab","engine_capacity":4.2919505298599425,"horsepower":421,"brand_id":323}
+{"id":860,"name":"Tundra Regular Cab","engine_capacity":3.201556411239249,"horsepower":236,"brand_id":193}
+{"id":861,"name":"Avalon","engine_capacity":3.2828318120810787,"horsepower":126,"brand_id":872}
+{"id":862,"name":"GX","engine_capacity":2.778173015822569,"horsepower":153,"brand_id":452}
+{"id":863,"name":"Sonata","engine_capacity":3.468090404144834,"horsepower":386,"brand_id":298}
+{"id":864,"name":"GLI","engine_capacity":3.5813856368662362,"horsepower":196,"brand_id":635}
+{"id":865,"name":"M3","engine_capacity":4.864447490893741,"horsepower":84,"brand_id":459}
+{"id":866,"name":"Econoline E250 Cargo","engine_capacity":0.8361552002176686,"horsepower":483,"brand_id":41}
+{"id":867,"name":"Taurus","engine_capacity":0.9437912382606148,"horsepower":239,"brand_id":512}
+{"id":868,"name":"Excel","engine_capacity":3.4389488149002547,"horsepower":285,"brand_id":806}
+{"id":869,"name":"Land Cruiser","engine_capacity":4.44861077250844,"horsepower":411,"brand_id":55}
+{"id":870,"name":"Suburban 2500","engine_capacity":1.125389926912535,"horsepower":236,"brand_id":933}
+{"id":871,"name":"Enclave","engine_capacity":2.220095995704477,"horsepower":286,"brand_id":769}
+{"id":872,"name":"CX-5","engine_capacity":4.349979920147793,"horsepower":131,"brand_id":588}
+{"id":873,"name":"Cutlass","engine_capacity":3.105195668578144,"horsepower":459,"brand_id":155}
+{"id":874,"name":"NSX","engine_capacity":2.578701997854611,"horsepower":201,"brand_id":310}
+{"id":875,"name":"Riviera","engine_capacity":1.8734812356098225,"horsepower":450,"brand_id":147}
+{"id":876,"name":"Silverado 1500 HD Crew Cab","engine_capacity":1.4017429130162968,"horsepower":303,"brand_id":997}
+{"id":877,"name":"Avalon","engine_capacity":3.801977393774881,"horsepower":459,"brand_id":94}
+{"id":878,"name":"Eclipse","engine_capacity":1.3076464373139083,"horsepower":207,"brand_id":223}
+{"id":879,"name":"cube","engine_capacity":2.7588604547561753,"horsepower":83,"brand_id":709}
+{"id":880,"name":"Impreza","engine_capacity":4.476462148949758,"horsepower":376,"brand_id":83}
+{"id":881,"name":"Celica","engine_capacity":4.217219720184379,"horsepower":412,"brand_id":564}
+{"id":882,"name":"Suburban 1500","engine_capacity":4.171587506312218,"horsepower":371,"brand_id":257}
+{"id":883,"name":"Bentayga","engine_capacity":2.5072663832740516,"horsepower":178,"brand_id":374}
+{"id":884,"name":"Civic","engine_capacity":1.6189870103660917,"horsepower":117,"brand_id":156}
+{"id":885,"name":"Model S","engine_capacity":4.290928449915146,"horsepower":473,"brand_id":744}
+{"id":886,"name":"Cruze","engine_capacity":2.1553252792901265,"horsepower":304,"brand_id":442}
+{"id":887,"name":"458 Speciale","engine_capacity":3.747567929358021,"horsepower":160,"brand_id":849}
+{"id":888,"name":"Dakota Club Cab","engine_capacity":3.3784295041547976,"horsepower":370,"brand_id":299}
+{"id":889,"name":"TITAN XD Crew Cab","engine_capacity":3.9569736329308105,"horsepower":326,"brand_id":523}
+{"id":890,"name":"Escalade ESV","engine_capacity":1.8269861657535384,"horsepower":370,"brand_id":43}
+{"id":891,"name":"XT5","engine_capacity":3.158471446934186,"horsepower":292,"brand_id":667}
+{"id":892,"name":"Shadow","engine_capacity":3.456054783350316,"horsepower":173,"brand_id":99}
+{"id":893,"name":"Impala","engine_capacity":1.5746039285083964,"horsepower":186,"brand_id":442}
+{"id":894,"name":"Express 3500 Passenger","engine_capacity":3.1018337874880046,"horsepower":403,"brand_id":298}
+{"id":895,"name":"Corvette","engine_capacity":2.519417053227779,"horsepower":450,"brand_id":987}
+{"id":896,"name":"A6","engine_capacity":3.311544287393839,"horsepower":370,"brand_id":570}
+{"id":897,"name":"E-Class","engine_capacity":2.7099097138929267,"horsepower":186,"brand_id":684}
+{"id":898,"name":"S60","engine_capacity":4.988725826404342,"horsepower":161,"brand_id":124}
+{"id":899,"name":"S10 Crew Cab","engine_capacity":3.3404787960111637,"horsepower":408,"brand_id":101}
+{"id":900,"name":"I","engine_capacity":1.4227510066084532,"horsepower":102,"brand_id":492}
+{"id":901,"name":"Terrain","engine_capacity":0.8873256355724685,"horsepower":361,"brand_id":557}
+{"id":902,"name":"Cutlass Cruiser","engine_capacity":3.124879485584824,"horsepower":145,"brand_id":382}
+{"id":903,"name":"3500 Crew Cab","engine_capacity":4.137168862885652,"horsepower":85,"brand_id":396}
+{"id":904,"name":"A6","engine_capacity":4.734381781976506,"horsepower":483,"brand_id":513}
+{"id":905,"name":"Outback","engine_capacity":4.123138047563361,"horsepower":489,"brand_id":912}
+{"id":906,"name":"Grand Cherokee","engine_capacity":2.466144116648467,"horsepower":410,"brand_id":388}
+{"id":907,"name":"Jetta","engine_capacity":4.385879417417165,"horsepower":239,"brand_id":796}
+{"id":908,"name":"Savana 2500 Cargo","engine_capacity":1.0102061048474615,"horsepower":225,"brand_id":634}
+{"id":909,"name":"Silverado 3500 HD Crew Cab","engine_capacity":3.1188853833142938,"horsepower":315,"brand_id":552}
+{"id":910,"name":"Sierra 3500 HD Crew Cab","engine_capacity":2.9128699136841227,"horsepower":373,"brand_id":989}
+{"id":911,"name":"Hardtop","engine_capacity":1.7198831155583112,"horsepower":383,"brand_id":139}
+{"id":912,"name":"Tahoe","engine_capacity":1.1269583376870072,"horsepower":252,"brand_id":489}
+{"id":913,"name":"Rondo","engine_capacity":2.0892430800683517,"horsepower":191,"brand_id":12}
+{"id":914,"name":"Accent","engine_capacity":3.8441312855017156,"horsepower":371,"brand_id":956}
+{"id":915,"name":"Quest","engine_capacity":3.3505009660907135,"horsepower":197,"brand_id":230}
+{"id":916,"name":"Mercedes-AMG S-Class","engine_capacity":1.4052494321266518,"horsepower":449,"brand_id":376}
+{"id":917,"name":"F150 Regular Cab","engine_capacity":1.199751939622521,"horsepower":197,"brand_id":538}
+{"id":918,"name":"M6","engine_capacity":2.0442497728687883,"horsepower":360,"brand_id":798}
+{"id":919,"name":"Thunderbird","engine_capacity":3.6540310296622955,"horsepower":358,"brand_id":771}
+{"id":920,"name":"ES","engine_capacity":4.1916030239168025,"horsepower":380,"brand_id":173}
+{"id":921,"name":"Supra","engine_capacity":2.6898794719434185,"horsepower":142,"brand_id":243}
+{"id":922,"name":"NSX","engine_capacity":4.458412809427156,"horsepower":223,"brand_id":703}
+{"id":923,"name":"IS","engine_capacity":4.992971708449577,"horsepower":234,"brand_id":339}
+{"id":924,"name":"Range Rover Evoque","engine_capacity":1.5547041989110033,"horsepower":361,"brand_id":638}
+{"id":925,"name":"Montego","engine_capacity":1.443187442860185,"horsepower":246,"brand_id":216}
+{"id":926,"name":"Park Avenue","engine_capacity":3.1101610955909367,"horsepower":187,"brand_id":353}
+{"id":927,"name":"B-Series Regular Cab","engine_capacity":1.8082492680907785,"horsepower":140,"brand_id":467}
+{"id":928,"name":"Ram 2500 Club Cab","engine_capacity":3.7644101264571015,"horsepower":283,"brand_id":616}
+{"id":929,"name":"F350 Super Duty Crew Cab","engine_capacity":0.936538770244887,"horsepower":101,"brand_id":626}
+{"id":930,"name":"300 SE","engine_capacity":2.5002919113661326,"horsepower":267,"brand_id":297}
+{"id":931,"name":"Tundra CrewMax","engine_capacity":4.429064634957266,"horsepower":329,"brand_id":225}
+{"id":932,"name":"Viper","engine_capacity":1.5878057735731512,"horsepower":453,"brand_id":660}
+{"id":933,"name":"3000GT","engine_capacity":2.818602973956886,"horsepower":147,"brand_id":179}
+{"id":934,"name":"Avalon","engine_capacity":1.15515522359138,"horsepower":485,"brand_id":148}
+{"id":935,"name":"Mercedes-AMG CLS","engine_capacity":3.211938304216763,"horsepower":160,"brand_id":420}
+{"id":936,"name":"TL","engine_capacity":3.5972789428269927,"horsepower":334,"brand_id":211}
+{"id":937,"name":"Regal","engine_capacity":1.1061704638385685,"horsepower":494,"brand_id":149}
+{"id":938,"name":"Elantra","engine_capacity":3.585525164018928,"horsepower":405,"brand_id":206}
+{"id":939,"name":"XJ","engine_capacity":3.4607476814515374,"horsepower":87,"brand_id":611}
+{"id":940,"name":"Routan","engine_capacity":2.836948541888738,"horsepower":462,"brand_id":785}
+{"id":941,"name":"SRX","engine_capacity":2.285844501008019,"horsepower":322,"brand_id":847}
+{"id":942,"name":"Ion","engine_capacity":2.911494196146907,"horsepower":413,"brand_id":964}
+{"id":943,"name":"QX","engine_capacity":0.8494734457584998,"horsepower":486,"brand_id":243}
+{"id":944,"name":"Cayman","engine_capacity":3.0712672589464907,"horsepower":365,"brand_id":750}
+{"id":945,"name":"62","engine_capacity":3.5395318754206055,"horsepower":374,"brand_id":46}
+{"id":946,"name":"Sprinter 3500 Cargo","engine_capacity":2.1915586102344466,"horsepower":431,"brand_id":185}
+{"id":947,"name":"Transit Connect Passenger","engine_capacity":3.3437066293434112,"horsepower":498,"brand_id":49}
+{"id":948,"name":"Boxster","engine_capacity":2.3484061462052943,"horsepower":356,"brand_id":609}
+{"id":949,"name":"Rabbit","engine_capacity":0.8528088954869371,"horsepower":197,"brand_id":736}
+{"id":950,"name":"Camry","engine_capacity":0.9279160432643926,"horsepower":403,"brand_id":128}
+{"id":951,"name":"Pilot","engine_capacity":2.3972924446882704,"horsepower":453,"brand_id":727}
+{"id":952,"name":"Rodeo","engine_capacity":1.0160850078000214,"horsepower":290,"brand_id":51}
+{"id":953,"name":"FJ Cruiser","engine_capacity":2.3483536350901213,"horsepower":469,"brand_id":647}
+{"id":954,"name":"Discovery","engine_capacity":3.3765810952507493,"horsepower":370,"brand_id":143}
+{"id":955,"name":"Savana 2500 Cargo","engine_capacity":3.0306526968962713,"horsepower":280,"brand_id":431}
+{"id":956,"name":"Tribeca","engine_capacity":4.075196380027961,"horsepower":129,"brand_id":791}
+{"id":957,"name":"MAZDA6","engine_capacity":3.030618709331338,"horsepower":462,"brand_id":412}
+{"id":958,"name":"S8","engine_capacity":2.748807761559386,"horsepower":496,"brand_id":60}
+{"id":959,"name":"CR-V","engine_capacity":4.834745690993413,"horsepower":229,"brand_id":232}
+{"id":960,"name":"Verona","engine_capacity":3.303394650096327,"horsepower":486,"brand_id":102}
+{"id":961,"name":"Armada","engine_capacity":1.0839759380752436,"horsepower":456,"brand_id":648}
+{"id":962,"name":"Cutlass Supreme","engine_capacity":0.9118369847032556,"horsepower":397,"brand_id":535}
+{"id":963,"name":"Expedition","engine_capacity":4.7480162196459155,"horsepower":270,"brand_id":55}
+{"id":964,"name":"Transit Connect Passenger","engine_capacity":1.035933282967595,"horsepower":329,"brand_id":6}
+{"id":965,"name":"Caliber","engine_capacity":2.7338278635761557,"horsepower":308,"brand_id":775}
+{"id":966,"name":"911","engine_capacity":1.0395849524279877,"horsepower":384,"brand_id":692}
+{"id":967,"name":"Amigo","engine_capacity":4.826404349484338,"horsepower":146,"brand_id":303}
+{"id":968,"name":"Paceman","engine_capacity":4.069650352042437,"horsepower":477,"brand_id":836}
+{"id":969,"name":"M5","engine_capacity":1.21536012963864,"horsepower":221,"brand_id":708}
+{"id":970,"name":"Savana 2500 Cargo","engine_capacity":4.855191087939422,"horsepower":387,"brand_id":11}
+{"id":971,"name":"RL","engine_capacity":1.5329967509161944,"horsepower":473,"brand_id":939}
+{"id":972,"name":"Yukon XL 2500","engine_capacity":1.771215324018279,"horsepower":336,"brand_id":543}
+{"id":973,"name":"Silverado 1500 Regular Cab","engine_capacity":2.7700001215046943,"horsepower":151,"brand_id":244}
+{"id":974,"name":"Yukon","engine_capacity":2.405612986547605,"horsepower":158,"brand_id":60}
+{"id":975,"name":"New Beetle","engine_capacity":2.71312666110412,"horsepower":259,"brand_id":465}
+{"id":976,"name":"S4","engine_capacity":2.276383312600538,"horsepower":96,"brand_id":382}
+{"id":977,"name":"RAV4","engine_capacity":4.802065788550686,"horsepower":157,"brand_id":593}
+{"id":978,"name":"Discovery","engine_capacity":4.201892275259853,"horsepower":365,"brand_id":235}
+{"id":979,"name":"RLX Sport Hybrid","engine_capacity":4.786774388273131,"horsepower":174,"brand_id":706}
+{"id":980,"name":"Express 3500 Cargo","engine_capacity":2.3265301116108734,"horsepower":378,"brand_id":189}
+{"id":981,"name":"500","engine_capacity":4.734672591057071,"horsepower":210,"brand_id":491}
+{"id":982,"name":"Sprinter 2500 Crew","engine_capacity":3.4026461281153946,"horsepower":472,"brand_id":727}
+{"id":983,"name":"CLA-Class","engine_capacity":4.104726501505525,"horsepower":354,"brand_id":155}
+{"id":984,"name":"Acadia","engine_capacity":0.8725314007871117,"horsepower":469,"brand_id":904}
+{"id":985,"name":"Sierra (Classic) 3500 Regular Cab","engine_capacity":1.4632126361944275,"horsepower":312,"brand_id":955}
+{"id":986,"name":"Voyager","engine_capacity":1.2196330503307955,"horsepower":463,"brand_id":700}
+{"id":987,"name":"M3","engine_capacity":1.6830617623744006,"horsepower":327,"brand_id":155}
+{"id":988,"name":"Blazer","engine_capacity":4.2186769806253395,"horsepower":500,"brand_id":594}
+{"id":989,"name":"MX-5 Miata","engine_capacity":4.567915270466531,"horsepower":492,"brand_id":495}
+{"id":990,"name":"M3","engine_capacity":1.3445895635779466,"horsepower":345,"brand_id":582}
+{"id":991,"name":"Q50","engine_capacity":2.1756701078388514,"horsepower":358,"brand_id":484}
+{"id":992,"name":"King Cab","engine_capacity":4.33407850115678,"horsepower":403,"brand_id":322}
+{"id":993,"name":"Murano","engine_capacity":2.5495224338831504,"horsepower":303,"brand_id":294}
+{"id":994,"name":"Gallardo","engine_capacity":3.8420452029599312,"horsepower":398,"brand_id":804}
+{"id":995,"name":"Tahoe (New)","engine_capacity":4.52962980074846,"horsepower":271,"brand_id":85}
+{"id":996,"name":"Aspire","engine_capacity":3.204653158866485,"horsepower":315,"brand_id":108}
+{"id":997,"name":"Azera","engine_capacity":2.028638379114197,"horsepower":443,"brand_id":652}
+{"id":998,"name":"Land Cruiser","engine_capacity":4.326333221008675,"horsepower":127,"brand_id":387}
+{"id":999,"name":"MPV","engine_capacity":1.7258753464255885,"horsepower":195,"brand_id":609}
+{"id":1000,"name":"Corolla","engine_capacity":2.931945271366602,"horsepower":449,"brand_id":441}
+{"id":3,"name":"Freestar Passenger","engine_capacity":3.40013989682185437,"horsepower":161,"brand_id":484}
+{"id":418,"name":"Evora","engine_capacity":3.0540878845540120,"horsepower":201,"brand_id":37}
+{"id":233,"name":"Golf R","engine_capacity":4.2240878845540120,"horsepower":325,"brand_id":16}
+{"id":105,"name":"Villager","engine_capacity":1.2890660400995493,"horsepower":180,"brand_id":805}
+{"id":107,"name":"Grand Am","engine_capacity":1.2056140824537351,"horsepower":143,"brand_id":208}
+{"id":112,"name":"Express 1500 Passenger","engine_capacity":1.5427938697083288,"horsepower":180,"brand_id":132}
+{"id":114,"name":"Ranger Super Cab","engine_capacity":1.1842720800814321,"horsepower":128,"brand_id":304}
+{"id":119,"name":"Fusion","engine_capacity":1.0836611266722298,"horsepower":137,"brand_id":21}
+{"id":123,"name":"ProMaster Cargo Van","engine_capacity":0.9029116049568223,"horsepower":180,"brand_id":307}
+{"id":128,"name":"Silverado 3500 HD Crew Cab","engine_capacity":0.8552848027815757,"horsepower":180,"brand_id":208}
+{"id":129,"name":"Regular Cab","engine_capacity":1.3532648570645067,"horsepower":149,"brand_id":655}
+{"id":130,"name":"Eclipse","engine_capacity":1.5842303220371052,"horsepower":180,"brand_id":45}
+{"id":132,"name":"NV2500 HD Cargo","engine_capacity":1.6877745227697012,"horsepower":180,"brand_id":68}
+{"id":133,"name":"XJ","engine_capacity":1.1105856169486679,"horsepower":160,"brand_id":200}
+{"id":143,"name":"350Z","engine_capacity":1.6005662416964952,"horsepower":180,"brand_id":342}
+{"id":145,"name":"X3","engine_capacity":1.1136645964216914,"horsepower":130,"brand_id":94}
+{"id":149,"name":"Celica","engine_capacity":1.6076547683389513,"horsepower":180,"brand_id":699}
+{"id":153,"name":"F350 Super Duty Crew Cab","engine_capacity":1.6019986295492188,"horsepower":180,"brand_id":163}
+{"id":155,"name":"Mercedes-AMG G-Class","engine_capacity":0.9557344217053287,"horsepower":180,"brand_id":909}
+{"id":157,"name":"1500 Extended Cab","engine_capacity":1.9393031598294341,"horsepower":180,"brand_id":505}
+{"id":160,"name":"F430","engine_capacity":1.3694364710614613,"horsepower":126,"brand_id":834}
+{"id":162,"name":"QX80","engine_capacity":1.444161893359551,"horsepower":146,"brand_id":176}
+{"id":163,"name":"Sedona","engine_capacity":1.757921449786835,"horsepower":180,"brand_id":953}
+{"id":170,"name":"86","engine_capacity":1.5206725476402347,"horsepower":180,"brand_id":396}
+{"id":171,"name":"Navigator","engine_capacity":1.8258547175947097,"horsepower":180,"brand_id":368}
+{"id":173,"name":"Express 3500 Cargo","engine_capacity":1.7643781543069827,"horsepower":180,"brand_id":919}
+{"id":175,"name":"LHS","engine_capacity":1.5648956336632764,"horsepower":125,"brand_id":844}
+{"id":183,"name":"Cabriolet","engine_capacity":1.2470263848486784,"horsepower":180,"brand_id":368}
+{"id":185,"name":"Tundra CrewMax","engine_capacity":1.6835589560111426,"horsepower":180,"brand_id":582}
+{"id":186,"name":"Tracker","engine_capacity":1.9235652591708483,"horsepower":93,"brand_id":469}
+{"id":188,"name":"Tempo","engine_capacity":1.420153337608574,"horsepower":180,"brand_id":186}
+{"id":192,"name":"Ram Wagon 2500","engine_capacity":1.3267749014910124,"horsepower":180,"brand_id":455}
+{"id":195,"name":"Silverado 1500 Regular Cab","engine_capacity":1.72102318266156,"horsepower":180,"brand_id":563}
+{"id":253,"name":"Blackwood","engine_capacity":1.3623957050016995,"horsepower":180,"brand_id":754}
+{"id":254,"name":"7 Series","engine_capacity":1.564955577461574,"horsepower":90,"brand_id":582}
+{"id":258,"name":"Edge","engine_capacity":1.6506692494410178,"horsepower":180,"brand_id":19}
+{"id":259,"name":"Vantage","engine_capacity":1.5611800665218725,"horsepower":81,"brand_id":205}
+{"id":260,"name":"GTI","engine_capacity":1.7509485229726849,"horsepower":91,"brand_id":939}
+{"id":261,"name":"Tundra Double Cab","engine_capacity":1.7676421904625692,"horsepower":130,"brand_id":390}
+{"id":267,"name":"Eclipse","engine_capacity":1.7630770849486268,"horsepower":180,"brand_id":315}
+{"id":276,"name":"Model S","engine_capacity":0.896383389738013,"horsepower":129,"brand_id":504}
+{"id":277,"name":"Corrado","engine_capacity":1.4369192257965175,"horsepower":180,"brand_id":539}
+{"id":279,"name":"S-Series","engine_capacity":1.295104305723977,"horsepower":180,"brand_id":809}
+{"id":280,"name":"Highlander","engine_capacity":1.6672818409863748,"horsepower":180,"brand_id":360}
+{"id":284,"name":"VUE","engine_capacity":1.8557218514873932,"horsepower":180,"brand_id":374}
+{"id":287,"name":"TT","engine_capacity":0.943512630644004,"horsepower":180,"brand_id":195}
+{"id":288,"name":"XK","engine_capacity":1.635025512587109,"horsepower":180,"brand_id":393}
+{"id":290,"name":"Tercel","engine_capacity":1.1135253679508565,"horsepower":180,"brand_id":431}
+{"id":297,"name":"C-HR","engine_capacity":1.0364290269715004,"horsepower":180,"brand_id":446}
+{"id":299,"name":"6 Series","engine_capacity":0.989315573052584,"horsepower":143,"brand_id":678}
+{"id":300,"name":"S90","engine_capacity":1.41590242434268,"horsepower":180,"brand_id":737}

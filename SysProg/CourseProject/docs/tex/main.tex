@@ -1,0 +1,31 @@
+% !TEX program = xelatex
+\include{preambule}
+\begin{document}
+	\includepdf[pages=-]{pdf/title.pdf}
+	
+	\setcounter{page}{3}
+	%\section*{ТЗ}
+	%\pagebreak
+	
+	%\include{01-abstract}
+
+	\normalsize
+	%\renewcommand{\contentsname}{\normalsize\bfseries\centering СОДЕРЖАНИЕ}
+	\renewcommand{\contentsname}{\hfill\bfseries\normalsize СОДЕРЖАНИЕ\hfill}
+	\renewcommand{\cftaftertoctitle}{\hfill}
+	
+	\small
+	\renewcommand{\cftsecdotsep}{\cftdotsep}
+	\tableofcontents
+	\normalsize
+	\pagebreak
+	
+	\include{01-intro}
+	\include{02-analysis}
+	\include{03-engineering}
+	\include{04-technological}
+	\include{05-research}
+	\include{06-conclusion}
+	\include{07-bibliography}
+	\include{08-supplements}
+\end{document}
